@@ -1,0 +1,204 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452108458522">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="3976245357" ref="experience:photography:main-pc:reach-me:index:windows:art:znc:servers:builds:blog:about:3d-work:graphic-design"/>
+    <file name="experience.css" crc="46528148" ref="experience"/>
+    <file name="photography.css" crc="3845667530" ref="photography"/>
+    <file name="main-pc.css" crc="86549391" ref="main-pc"/>
+    <file name="reach-me.css" crc="276995279" ref="reach-me"/>
+    <file name="index.css" crc="4205133821" ref="index"/>
+    <file name="windows.css" crc="4225825057" ref="windows"/>
+    <file name="art.css" crc="4264742970" ref="art"/>
+    <file name="znc.css" crc="3806240363" ref="znc"/>
+    <file name="servers.css" crc="4264742970" ref="servers"/>
+    <file name="builds.css" crc="4264742970" ref="builds"/>
+    <file name="blog.css" crc="4106542239" ref="blog"/>
+    <file name="about.css" crc="4264742970" ref="about"/>
+    <file name="3d-work.css" crc="457572436" ref="3d-work"/>
+    <file name="graphic-design.css" crc="3928580969" ref="graphic-design"/>
+  </folder>
+  <folder name="fonts">
+    <file name="ostrichsans-medium-webfont.woff" crc="3772577414"/>
+    <file name="ostrichsans-medium-webfont.eot" crc="3844976408"/>
+    <file name="ostrichsans-medium-webfont.svg" crc="176961778"/>
+    <file name="ostrichsans-light-webfont.woff" crc="5743412"/>
+    <file name="ostrichsans-light-webfont.eot" crc="12985403"/>
+    <file name="ostrichsans-light-webfont.svg" crc="227368146"/>
+  </folder>
+  <folder name="assets">
+    <folder name="email">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1448827059000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="159643429" mt="1448827059000"/>
+        <file name="Poster.png" crc="3814830246" mt="1448827059000"/>
+        <file name="Poster2.png" crc="4144755433" mt="1448827059000"/>
+        <file name="Poster3.png" crc="68485706" mt="1448827059000"/>
+        <file name="Poster4.png" crc="159643429" mt="1448827059000"/>
+        <file name="facebook.svg" crc="259021463" mt="1448827059000"/>
+        <file name="instagram.svg" crc="3802466510" mt="1448827059000"/>
+        <file name="Untitled-1.svg" crc="273472688" mt="1448827059000"/>
+        <file name="youtube.svg" crc="81191171" mt="1448827059000"/>
+      </folder>
+      <file name="Email_edge.js" crc="101934825" mt="1448827059000"/>
+      <file name="Email.html" crc="4077529710" mt="1448827059000"/>
+    </folder>
+    <folder name="instagram">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1448826462000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="68485706" mt="1448826462000"/>
+        <file name="Poster.png" crc="3814830246" mt="1448826462000"/>
+        <file name="Poster2.png" crc="4144755433" mt="1448826462000"/>
+        <file name="Poster3.png" crc="68485706" mt="1448826462000"/>
+        <file name="facebook.svg" crc="259021463" mt="1448826462000"/>
+        <file name="instagram.svg" crc="3802466510" mt="1448826462000"/>
+        <file name="youtube.svg" crc="81191171" mt="1448826462000"/>
+      </folder>
+      <file name="Instagram_edge.js" crc="3952172738" mt="1448826462000"/>
+      <file name="Instagram.html" crc="3787774861" mt="1448826462000"/>
+    </folder>
+    <folder name="twitter">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1448826262000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3803743147" mt="1448826262000"/>
+        <file name="Poster.png" crc="3803743147" mt="1448826262000"/>
+        <file name="Poster2.png" crc="3803743147" mt="1448826262000"/>
+        <file name="facebook.svg" crc="259021463" mt="1448826262000"/>
+        <file name="twitter.svg" crc="4105678826" mt="1448826262000"/>
+        <file name="youtube.svg" crc="81191171" mt="1448826262000"/>
+      </folder>
+      <file name="Twitter_edge.js" crc="515549884" mt="1448826262000"/>
+      <file name="Twitter.html" crc="150788960" mt="1448826262000"/>
+    </folder>
+    <folder name="facebook">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1448826280000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="4144755433" mt="1448826280000"/>
+        <file name="Poster.png" crc="3814830246" mt="1448826280000"/>
+        <file name="Poster2.png" crc="4144755433" mt="1448826280000"/>
+        <file name="facebook.svg" crc="259021463" mt="1448826280000"/>
+        <file name="youtube.svg" crc="81191171" mt="1448826280000"/>
+      </folder>
+      <file name="facebook_edge.js" crc="260924512" mt="1448826280000"/>
+      <file name="facebook.html" crc="408489518" mt="1448826280000"/>
+    </folder>
+    <folder name="youtube">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1448825808000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3814830246" mt="1448825808000"/>
+        <file name="Poster.png" crc="3814830246" mt="1448825808000"/>
+        <file name="youtube.svg" crc="81191171" mt="1448825808000"/>
+      </folder>
+      <file name="youtube_edge.js" crc="77136100" mt="1448825808000"/>
+      <file name="youtube.html" crc="3884113615" mt="1448825808000"/>
+    </folder>
+    <file name="photoslide.html" crc="203492665" seo="true" mt="1448829300000"/>
+    <file name="drivecage.mp4" crc="477704731" seo="true" mt="1449202114000"/>
+    <file name="drv.mp4" crc="3815821424" seo="true" mt="1449202563000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog"/>
+    <file name="museutils.js" crc="275725342" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog"/>
+    <file name="pie.js" crc="3827607177" ref="index:graphic-design:photography:3d-work:znc:windows:reach-me:experience:main-pc:blog"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="graphic-design:photography:3d-work:znc:windows:reach-me:experience:main-pc:blog"/>
+    <file name="webpro.js" crc="3883484123" ref="photography"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="photography"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="photography"/>
+    <file name="touchswipe.js" crc="4218319045" ref="photography"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="main-pc"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="422724322" ref="index"/>
+    <file name="haloflat.svg" crc="490379336" ref="index"/>
+    <file name="haloflat_poster_.png" crc="1427023" ref="index"/>
+    <file name="flat.svg" crc="4058176026" ref="graphic-design:photography:3d-work:znc:windows:reach-me:experience:main-pc:blog"/>
+    <file name="flat_poster_.png" crc="325934479" ref="graphic-design"/>
+    <file name="spotifyfull.svg" crc="64750895" ref="graphic-design"/>
+    <file name="spotifyfull_poster_.png" crc="177409368" ref="graphic-design"/>
+    <file name="weather.svg" crc="279665341" ref="graphic-design"/>
+    <file name="weather_poster_.png" crc="276801715" ref="graphic-design"/>
+    <file name="head.svg" crc="294528464" ref="graphic-design"/>
+    <file name="head_poster_.png" crc="4084043699" ref="graphic-design"/>
+    <file name="spec.svg" crc="199992522" ref="graphic-design"/>
+    <file name="spec_poster_.png" crc="25735811" ref="graphic-design"/>
+    <file name="mark.svg" crc="4263781925" ref="graphic-design"/>
+    <file name="mark_poster_.png" crc="4272065507" ref="graphic-design"/>
+    <file name="band.svg" crc="3832563614" ref="graphic-design"/>
+    <file name="band_poster_.png" crc="3995841503" ref="graphic-design"/>
+    <file name="disk.svg" crc="194795982" ref="graphic-design"/>
+    <file name="disk_poster_.png" crc="9624780" ref="graphic-design"/>
+    <file name="boot.svg" crc="4107479339" ref="graphic-design"/>
+    <file name="boot_poster_.png" crc="175417896" ref="graphic-design"/>
+    <file name="solid.svg" crc="4121416871" ref="graphic-design"/>
+    <file name="solid_poster_.png" crc="4087588286" ref="graphic-design"/>
+    <file name="reveille q1.jpg" crc="4036287047" seo="true" ref="graphic-design"/>
+    <file name="reveille q2.jpg" crc="517057631" seo="true" ref="graphic-design"/>
+    <file name="reveille q3.jpg" crc="460993763" seo="true" ref="graphic-design"/>
+    <file name="covers-01-crop-u653.jpg" crc="4168109746" ref="graphic-design"/>
+    <file name="dsc9185.jpg" crc="420560019" seo="true" ref="photography"/>
+    <file name="blank.gif" crc="4208392903" ref="photography"/>
+    <file name="dsc8158.jpg" crc="3974267730" seo="true" ref="photography"/>
+    <file name="dsc9139.jpg" crc="4286748235" seo="true" ref="photography"/>
+    <file name="dsc8551.jpg" crc="18135585" seo="true" ref="photography"/>
+    <file name="dsc91852.jpg" crc="420560019" seo="true" ref="photography"/>
+    <file name="dsc9214.jpg" crc="454423401" seo="true" ref="photography"/>
+    <file name="dsc918568x45.jpg" crc="4170490611" seo="true" ref="photography"/>
+    <file name="dsc815868x45.jpg" crc="3832489155" seo="true" ref="photography"/>
+    <file name="dsc913968x45.jpg" crc="3972622513" seo="true" ref="photography"/>
+    <file name="dsc855168x45.jpg" crc="518006681" seo="true" ref="photography"/>
+    <file name="dsc918568x452.jpg" crc="4170490611" seo="true" ref="photography"/>
+    <file name="dsc921468x45.jpg" crc="68043197" seo="true" ref="photography"/>
+    <file name="loading.gif" crc="3815509949" ref="photography"/>
+    <file name="tobo-u454.png" crc="3892611890" ref="3d-work"/>
+    <file name="blockfade.png" crc="3809117375" ref="3d-work"/>
+    <file name="tobo-u700.png" crc="3892611890" ref="3d-work"/>
+    <file name="blaster.jpg" crc="177017389" seo="true" ref="3d-work"/>
+    <file name="dashbig.jpg" crc="4232213720" seo="true" ref="3d-work"/>
+    <file name="huddof.png" crc="445266689" seo="true" ref="3d-work"/>
+    <file name="fjisd.jpg" crc="3851322129" seo="true" ref="3d-work"/>
+    <file name="nexus.jpg" crc="3997165112" seo="true" ref="3d-work"/>
+    <file name="fog logo.png" crc="280697974" seo="true" ref="windows"/>
+    <file name="dsc9359-crop-u892.jpg" crc="3889429118" ref="main-pc"/>
+    <file name="2015-12-03.jpg" crc="3932908632" seo="true" ref="main-pc"/>
+    <file name="dsc9358.jpg" crc="4092304140" seo="true" ref="main-pc"/>
+    <file name="dsc9357.jpg" crc="279453363" seo="true" ref="main-pc"/>
+    <file name="dsc9350.jpg" crc="3985259167" ref="main-pc"/>
+    <file name="mobo.svg" crc="4292623665" ref="main-pc"/>
+    <file name="mobo_poster_.png" crc="445692713" ref="main-pc"/>
+    <file name="cpu.svg" crc="4024063621" ref="main-pc"/>
+    <file name="cpu_poster_.png" crc="4038653498" ref="main-pc"/>
+    <file name="gpu.svg" crc="3831766338" ref="main-pc"/>
+    <file name="gpu_poster_.png" crc="4282416557" ref="main-pc"/>
+    <file name="ram.svg" crc="376040103" ref="main-pc"/>
+    <file name="ram_poster_.png" crc="3797518920" ref="main-pc"/>
+    <file name="hdd.svg" crc="483967136" ref="main-pc"/>
+    <file name="hdd_poster_.png" crc="17015555" ref="main-pc"/>
+    <file name="img_20151116_145044.jpg" crc="219342925" seo="true" ref="main-pc"/>
+  </folder>
+  <file name="index.html" crc="13628743" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="servers.html" crc="451191431" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="art.html" crc="257041342" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="graphic-design.html" crc="423126045" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="photography.html" crc="458057524" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="3d-work.html" crc="483031374" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="about.html" crc="453431859" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="znc.html" crc="3796586634" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="windows.html" crc="75352750" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="reach-me.html" crc="227116959" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="experience.html" crc="250078655" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="builds.html" crc="197759073" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="main-pc.html" crc="4182065451" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="blog.html" crc="365928119" seo="true" mt="1452108216847" redirect="true"/>
+</manifest>
