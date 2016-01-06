@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452108458522">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452123954528">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="3976245357" ref="experience:photography:main-pc:reach-me:index:windows:art:znc:servers:builds:blog:about:3d-work:graphic-design"/>
@@ -120,11 +120,11 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="main-pc"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="422724322" ref="index"/>
+    <file name="a-master-favicon.ico" crc="422724322" ref="index:main-pc"/>
     <file name="haloflat.svg" crc="490379336" ref="index"/>
     <file name="haloflat_poster_.png" crc="1427023" ref="index"/>
     <file name="flat.svg" crc="4058176026" ref="graphic-design:photography:3d-work:znc:windows:reach-me:experience:main-pc:blog"/>
-    <file name="flat_poster_.png" crc="325934479" ref="graphic-design"/>
+    <file name="flat_poster_.png" crc="325934479" ref="graphic-design:main-pc"/>
     <file name="spotifyfull.svg" crc="64750895" ref="graphic-design"/>
     <file name="spotifyfull_poster_.png" crc="177409368" ref="graphic-design"/>
     <file name="weather.svg" crc="279665341" ref="graphic-design"/>
@@ -179,8 +179,8 @@
     <file name="mobo_poster_.png" crc="445692713" ref="main-pc"/>
     <file name="cpu.svg" crc="4024063621" ref="main-pc"/>
     <file name="cpu_poster_.png" crc="4038653498" ref="main-pc"/>
-    <file name="gpu.svg" crc="3831766338" ref="main-pc"/>
-    <file name="gpu_poster_.png" crc="4282416557" ref="main-pc"/>
+    <file name="gpu.svg" crc="4168567435" ref="main-pc"/>
+    <file name="gpu_poster_.png" crc="4116439674" ref="main-pc"/>
     <file name="ram.svg" crc="376040103" ref="main-pc"/>
     <file name="ram_poster_.png" crc="3797518920" ref="main-pc"/>
     <file name="hdd.svg" crc="483967136" ref="main-pc"/>
@@ -199,6 +199,6 @@
   <file name="reach-me.html" crc="227116959" seo="true" mt="1452108216847" redirect="true"/>
   <file name="experience.html" crc="250078655" seo="true" mt="1452108216847" redirect="true"/>
   <file name="builds.html" crc="197759073" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="main-pc.html" crc="4182065451" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="main-pc.html" crc="3919498603" seo="true" mt="1452123949931" redirect="true"/>
   <file name="blog.html" crc="365928119" seo="true" mt="1452108216847" redirect="true"/>
 </manifest>
