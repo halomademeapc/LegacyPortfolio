@@ -4,8 +4,8 @@
 
 .version._3d_work /* version checker */
 {
-	color: #0000E8;
-	background-color: #FC95FF;
+	color: #000007;
+	background-color: #428F63;
 }
 
 .html
@@ -192,41 +192,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u1197
-{
-	width: 190px;
-	padding-bottom: 6px;
-	margin-right: -10000px;
-}
-
-#u185.MuseMenuActive,#u1197:hover
-{
-	width: 190px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u1200-4
-{
-	width: 182px;
-	min-height: 19px;
-	padding-left: 2px;
-	padding-top: 4px;
-	padding-right: 2px;
-	margin-right: -10000px;
-	top: 3px;
-	left: 2px;
-}
-
-#u185.MuseMenuActive #u187-4,#u1197:hover #u1200-4
-{
-	padding-top: 4px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 182px;
-	margin: 0px -10000px 0px 0px;
-}
-
 #u192
 {
 	width: 190px;
@@ -234,7 +199,7 @@
 	margin-right: -10000px;
 }
 
-#u1197.MuseMenuActive,#u192:hover
+#u185.MuseMenuActive,#u192:hover
 {
 	width: 190px;
 	min-height: 0px;
@@ -253,7 +218,7 @@
 	left: 2px;
 }
 
-#u1197.MuseMenuActive #u1200-4,#u192:hover #u195-4
+#u185.MuseMenuActive #u187-4,#u192:hover #u195-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -365,7 +330,7 @@
 	top: 36px;
 }
 
-#u164,#u184,#u1194,#u191,#u198,#u985
+#u164,#u184,#u191,#u198,#u985
 {
 	width: 190px;
 }
@@ -761,7 +726,7 @@
 
 #u458
 {
-	z-index: 95;
+	z-index: 89;
 	min-height: 232px;
 	-pie-box-shadow: 0px 10px 24px #CCCCCC;
 	box-shadow: 0px 10px 24px rgba(0,0,0,0.2);
@@ -781,7 +746,7 @@
 
 #u471-4
 {
-	z-index: 125;
+	z-index: 119;
 	width: 889px;
 	min-height: 77px;
 	background-color: transparent;
@@ -798,28 +763,28 @@
 
 #u458-bw
 {
-	z-index: 95;
+	z-index: 89;
 	min-height: 232px;
 	margin-top: 703px;
 }
 
 #u508
 {
-	z-index: 108;
+	z-index: 102;
 	height: 94px;
 	background-color: #141414;
 }
 
 #u508-bw
 {
-	z-index: 108;
+	z-index: 102;
 	margin-top: 50px;
 	height: 94px;
 }
 
 #u451-5
 {
-	z-index: 109;
+	z-index: 103;
 	width: 132px;
 	min-height: 131px;
 	background-color: transparent;
@@ -840,7 +805,7 @@
 
 #u452-4
 {
-	z-index: 114;
+	z-index: 108;
 	width: 480px;
 	min-height: 38px;
 	background-color: transparent;
@@ -857,7 +822,7 @@
 
 #u453-4
 {
-	z-index: 118;
+	z-index: 112;
 	width: 597px;
 	min-height: 141px;
 	background-color: transparent;
@@ -873,7 +838,7 @@
 
 #u454
 {
-	z-index: 122;
+	z-index: 116;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -884,7 +849,7 @@
 
 #u456
 {
-	z-index: 124;
+	z-index: 118;
 	width: 480px;
 	min-height: 299px;
 	border-style: none;
@@ -898,7 +863,7 @@
 
 #u472-4
 {
-	z-index: 129;
+	z-index: 123;
 	width: 608px;
 	min-height: 76px;
 	background-color: transparent;
@@ -914,21 +879,21 @@
 
 #u509
 {
-	z-index: 133;
+	z-index: 127;
 	height: 124px;
 	background: transparent url("../images/blockfade.png") repeat-x left top;
 }
 
 #u509-bw
 {
-	z-index: 133;
+	z-index: 127;
 	margin-top: 703px;
 	height: 124px;
 }
 
 #u700
 {
-	z-index: 140;
+	z-index: 134;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -955,7 +920,7 @@
 
 #u695
 {
-	z-index: 134;
+	z-index: 128;
 	height: 94px;
 	-pie-box-shadow: 0px 0px 23px #000000;
 	box-shadow: 0px 0px 23px #000000;
@@ -964,7 +929,7 @@
 
 #u695-bw
 {
-	z-index: 134;
+	z-index: 128;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -973,7 +938,7 @@
 
 #u697
 {
-	z-index: 139;
+	z-index: 133;
 	overflow: hidden;
 	position: fixed;
 	top: 32px;
@@ -989,7 +954,7 @@
 
 #u696-4
 {
-	z-index: 135;
+	z-index: 129;
 	width: 597px;
 	min-height: 85px;
 	background-color: transparent;
@@ -1005,7 +970,7 @@
 
 #u465
 {
-	z-index: 100;
+	z-index: 94;
 	width: 920px;
 	background-color: transparent;
 	position: fixed;
@@ -1015,7 +980,7 @@
 
 #u467
 {
-	z-index: 102;
+	z-index: 96;
 	width: 446px;
 	background-color: transparent;
 	position: fixed;
@@ -1025,7 +990,7 @@
 
 #u475
 {
-	z-index: 106;
+	z-index: 100;
 	width: 460px;
 	min-height: 263px;
 	border-style: none;
@@ -1038,7 +1003,7 @@
 
 #u473
 {
-	z-index: 107;
+	z-index: 101;
 	width: 921px;
 	min-height: 524px;
 	border-style: none;
@@ -1051,7 +1016,7 @@
 
 #u461
 {
-	z-index: 96;
+	z-index: 90;
 	width: 920px;
 	background-color: transparent;
 	position: fixed;
@@ -1061,7 +1026,7 @@
 
 #u469
 {
-	z-index: 104;
+	z-index: 98;
 	width: 448px;
 	background-color: transparent;
 	position: fixed;
@@ -1071,7 +1036,7 @@
 
 #u463
 {
-	z-index: 98;
+	z-index: 92;
 	width: 448px;
 	background-color: transparent;
 	position: fixed;
@@ -1081,7 +1046,7 @@
 
 #u1122-3
 {
-	z-index: 143;
+	z-index: 137;
 	width: 5px;
 	background-color: transparent;
 	position: relative;
