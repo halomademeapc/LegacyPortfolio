@@ -4,8 +4,8 @@
 
 .version.windows /* version checker */
 {
-	color: #0000FB;
-	background-color: #E0F921;
+	color: #0000EE;
+	background-color: #A20BB9;
 }
 
 .html
@@ -38,7 +38,7 @@
 
 #u713
 {
-	z-index: 91;
+	z-index: 97;
 	height: 94px;
 	-pie-box-shadow: 0px 0px 23px #000000;
 	box-shadow: 0px 0px 23px #000000;
@@ -47,7 +47,7 @@
 
 #u713-bw
 {
-	z-index: 91;
+	z-index: 97;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -210,6 +210,41 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u1197
+{
+	width: 190px;
+	padding-bottom: 6px;
+	margin-right: -10000px;
+}
+
+#u185.MuseMenuActive,#u1197:hover
+{
+	width: 190px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1200-4
+{
+	width: 182px;
+	min-height: 19px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 3px;
+	left: 2px;
+}
+
+#u185.MuseMenuActive #u187-4,#u1197:hover #u1200-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 182px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u192
 {
 	width: 190px;
@@ -217,7 +252,7 @@
 	margin-right: -10000px;
 }
 
-#u185.MuseMenuActive,#u192:hover
+#u1197.MuseMenuActive,#u192:hover
 {
 	width: 190px;
 	min-height: 0px;
@@ -236,7 +271,7 @@
 	left: 2px;
 }
 
-#u185.MuseMenuActive #u187-4,#u192:hover #u195-4
+#u1197.MuseMenuActive #u1200-4,#u192:hover #u195-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -348,7 +383,7 @@
 	top: 36px;
 }
 
-#u164,#u184,#u191,#u198,#u985
+#u164,#u184,#u1194,#u191,#u198,#u985
 {
 	width: 190px;
 }
@@ -750,21 +785,21 @@
 
 #u254
 {
-	z-index: 89;
+	z-index: 95;
 	height: 113px;
 	background-color: #004050;
 }
 
 #u254-bw
 {
-	z-index: 89;
+	z-index: 95;
 	margin-top: 113px;
 	height: 113px;
 }
 
 #u253
 {
-	z-index: 90;
+	z-index: 96;
 	height: 799px;
 	-pie-box-shadow: 0px 0px 18px #000000;
 	box-shadow: 0px 0px 18px #000000;
@@ -773,14 +808,14 @@
 
 #u253-bw
 {
-	z-index: 90;
+	z-index: 96;
 	margin-top: 113px;
 	height: 799px;
 }
 
 #u257
 {
-	z-index: 97;
+	z-index: 103;
 	width: 181px;
 	background-color: transparent;
 	position: relative;
@@ -790,7 +825,7 @@
 
 #u250
 {
-	z-index: 99;
+	z-index: 105;
 	min-height: 808px;
 	border-style: none;
 	border-color: transparent;
@@ -799,7 +834,7 @@
 
 #u250-bw
 {
-	z-index: 99;
+	z-index: 105;
 	min-height: 808px;
 	margin-top: 113px;
 }
@@ -815,7 +850,7 @@
 
 #u715
 {
-	z-index: 96;
+	z-index: 102;
 	overflow: hidden;
 	position: fixed;
 	top: 31px;
@@ -831,13 +866,13 @@
 
 #u714-4
 {
-	z-index: 92;
+	z-index: 98;
 	width: 597px;
 	min-height: 85px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 79px;
 	line-height: 95px;
+	font-size: 79px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: fixed;

@@ -28,9 +28,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 30px;
-	color: #FFFFFF;
-	font-size: 25px;
 	text-align: center;
+	font-size: 25px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -63,9 +63,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 30px;
-	color: #FFFFFF;
-	font-size: 25px;
 	text-align: center;
+	font-size: 25px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -92,9 +92,33 @@
 {
 	background-color: transparent;
 	line-height: 19px;
-	color: #FFFFFF;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-family: '__Ostrich Sans_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u1197
+{
+	border-color: #777777;
+	background-color: #121212;
+	position: relative;
+}
+
+#u185.MuseMenuActive,#u1197:hover
+{
+	background-color: #1E1E1E;
+}
+
+#u1200-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -107,7 +131,7 @@
 	position: relative;
 }
 
-#u185.MuseMenuActive,#u192:hover
+#u1197.MuseMenuActive,#u192:hover
 {
 	background-color: #1E1E1E;
 }
@@ -116,9 +140,9 @@
 {
 	background-color: transparent;
 	line-height: 19px;
-	color: #FFFFFF;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -140,15 +164,15 @@
 {
 	background-color: transparent;
 	line-height: 19px;
-	color: #FFFFFF;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
 }
 
-#u184,#u191,#u198,#u983,#u1007
+#u184,#u1194,#u191,#u198,#u983,#u1007
 {
 	background-color: transparent;
 	position: relative;
@@ -170,9 +194,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 30px;
-	color: #FFFFFF;
-	font-size: 25px;
 	text-align: center;
+	font-size: 25px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -205,9 +229,9 @@
 {
 	background-color: transparent;
 	line-height: 19px;
-	color: #FFFFFF;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -235,9 +259,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 30px;
-	color: #FFFFFF;
-	font-size: 25px;
 	text-align: center;
+	font-size: 25px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -264,9 +288,9 @@
 {
 	background-color: transparent;
 	line-height: 19px;
-	color: #FFFFFF;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -288,9 +312,9 @@
 {
 	background-color: transparent;
 	line-height: 19px;
-	color: #FFFFFF;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -318,9 +342,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 30px;
-	color: #FFFFFF;
-	font-size: 25px;
 	text-align: center;
+	font-size: 25px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -363,9 +387,9 @@
 {
 	background-color: transparent;
 	line-height: 19px;
-	color: #FFFFFF;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -403,9 +427,9 @@
 {
 	background-color: transparent;
 	line-height: 19px;
-	color: #FFFFFF;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;

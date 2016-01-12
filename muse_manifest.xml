@@ -1,21 +1,22 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452123954528">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452640152332">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="3976245357" ref="experience:photography:main-pc:reach-me:index:windows:art:znc:servers:builds:blog:about:3d-work:graphic-design"/>
-    <file name="experience.css" crc="46528148" ref="experience"/>
-    <file name="photography.css" crc="3845667530" ref="photography"/>
-    <file name="main-pc.css" crc="86549391" ref="main-pc"/>
-    <file name="reach-me.css" crc="276995279" ref="reach-me"/>
-    <file name="index.css" crc="4205133821" ref="index"/>
-    <file name="windows.css" crc="4225825057" ref="windows"/>
-    <file name="art.css" crc="4264742970" ref="art"/>
-    <file name="znc.css" crc="3806240363" ref="znc"/>
-    <file name="servers.css" crc="4264742970" ref="servers"/>
-    <file name="builds.css" crc="4264742970" ref="builds"/>
-    <file name="blog.css" crc="4106542239" ref="blog"/>
-    <file name="about.css" crc="4264742970" ref="about"/>
-    <file name="3d-work.css" crc="457572436" ref="3d-work"/>
-    <file name="graphic-design.css" crc="3928580969" ref="graphic-design"/>
+    <file name="master_a-master.css" crc="4047013542" ref="experience:photography:main-pc:reach-me:index:windows:art:znc:servers:builds:blog:about:3d-work:graphic-design:animated-graphics"/>
+    <file name="experience.css" crc="513646273" ref="experience"/>
+    <file name="photography.css" crc="4218149280" ref="photography"/>
+    <file name="main-pc.css" crc="527647069" ref="main-pc"/>
+    <file name="reach-me.css" crc="4211915149" ref="reach-me"/>
+    <file name="index.css" crc="264346232" ref="index"/>
+    <file name="windows.css" crc="4003597241" ref="windows"/>
+    <file name="art.css" crc="199226313" ref="art"/>
+    <file name="znc.css" crc="3935227849" ref="znc"/>
+    <file name="servers.css" crc="199226313" ref="servers"/>
+    <file name="builds.css" crc="199226313" ref="builds"/>
+    <file name="blog.css" crc="486864840" ref="blog"/>
+    <file name="about.css" crc="199226313" ref="about"/>
+    <file name="3d-work.css" crc="3908867583" ref="3d-work"/>
+    <file name="graphic-design.css" crc="281963371" ref="graphic-design"/>
+    <file name="animated-graphics.css" crc="199226313" ref="animated-graphics"/>
   </folder>
   <folder name="fonts">
     <file name="ostrichsans-medium-webfont.woff" crc="3772577414"/>
@@ -106,12 +107,12 @@
     <file name="drv.mp4" crc="3815821424" seo="true" mt="1449202563000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog"/>
-    <file name="museutils.js" crc="275725342" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog:animated-graphics"/>
+    <file name="museutils.js" crc="275725342" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog:animated-graphics"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog:animated-graphics"/>
     <file name="pie.js" crc="3827607177" ref="index:graphic-design:photography:3d-work:znc:windows:reach-me:experience:main-pc:blog"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog:animated-graphics"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:servers:art:graphic-design:photography:3d-work:about:znc:windows:reach-me:experience:builds:main-pc:blog:animated-graphics"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="graphic-design:photography:3d-work:znc:windows:reach-me:experience:main-pc:blog"/>
     <file name="webpro.js" crc="3883484123" ref="photography"/>
     <file name="musewpslideshow.js" crc="360574455" ref="photography"/>
@@ -120,11 +121,11 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="main-pc"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="422724322" ref="index:main-pc"/>
+    <file name="a-master-favicon.ico" crc="422724322" ref="index"/>
     <file name="haloflat.svg" crc="490379336" ref="index"/>
     <file name="haloflat_poster_.png" crc="1427023" ref="index"/>
     <file name="flat.svg" crc="4058176026" ref="graphic-design:photography:3d-work:znc:windows:reach-me:experience:main-pc:blog"/>
-    <file name="flat_poster_.png" crc="325934479" ref="graphic-design:main-pc"/>
+    <file name="flat_poster_.png" crc="325934479" ref="graphic-design"/>
     <file name="spotifyfull.svg" crc="64750895" ref="graphic-design"/>
     <file name="spotifyfull_poster_.png" crc="177409368" ref="graphic-design"/>
     <file name="weather.svg" crc="279665341" ref="graphic-design"/>
@@ -186,19 +187,23 @@
     <file name="hdd.svg" crc="483967136" ref="main-pc"/>
     <file name="hdd_poster_.png" crc="17015555" ref="main-pc"/>
     <file name="img_20151116_145044.jpg" crc="219342925" seo="true" ref="main-pc"/>
+    <file name="recover_colorfull.swf" crc="495150500" ref="graphic-design"/>
+    <file name="cmy preload.svg" crc="3843909461" ref="graphic-design"/>
+    <file name="cmy preload_poster_.png" crc="3831557458" ref="graphic-design"/>
   </folder>
-  <file name="index.html" crc="13628743" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="servers.html" crc="451191431" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="art.html" crc="257041342" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="graphic-design.html" crc="423126045" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="photography.html" crc="458057524" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="3d-work.html" crc="483031374" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="about.html" crc="453431859" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="znc.html" crc="3796586634" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="windows.html" crc="75352750" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="reach-me.html" crc="227116959" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="experience.html" crc="250078655" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="builds.html" crc="197759073" seo="true" mt="1452108216847" redirect="true"/>
-  <file name="main-pc.html" crc="3919498603" seo="true" mt="1452123949931" redirect="true"/>
-  <file name="blog.html" crc="365928119" seo="true" mt="1452108216847" redirect="true"/>
+  <file name="index.html" crc="4199890395" seo="true" mt="1452640016627" redirect="true"/>
+  <file name="servers.html" crc="293912414" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="art.html" crc="20019320" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="graphic-design.html" crc="3778910656" seo="true" mt="1452640047248" redirect="true"/>
+  <file name="photography.html" crc="4040445344" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="3d-work.html" crc="4077243662" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="about.html" crc="4033545733" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="znc.html" crc="156022923" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="windows.html" crc="220477020" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="reach-me.html" crc="51309156" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="experience.html" crc="509418837" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="builds.html" crc="3962473765" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="main-pc.html" crc="3862441663" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="blog.html" crc="3994541102" seo="true" mt="1452639352672" redirect="true"/>
+  <file name="animated-graphics.html" crc="254854492" seo="true" mt="1452639352673" redirect="true"/>
 </manifest>

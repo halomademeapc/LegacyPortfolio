@@ -4,8 +4,8 @@
 
 .version.builds /* version checker */
 {
-	color: #0000FE;
-	background-color: #32D03A;
+	color: #00000B;
+	background-color: #DFF3C9;
 }
 
 .html
@@ -179,6 +179,41 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u1197
+{
+	width: 190px;
+	padding-bottom: 6px;
+	margin-right: -10000px;
+}
+
+#u185.MuseMenuActive,#u1197:hover
+{
+	width: 190px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1200-4
+{
+	width: 182px;
+	min-height: 19px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 3px;
+	left: 2px;
+}
+
+#u185.MuseMenuActive #u187-4,#u1197:hover #u1200-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 182px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u192
 {
 	width: 190px;
@@ -186,7 +221,7 @@
 	margin-right: -10000px;
 }
 
-#u185.MuseMenuActive,#u192:hover
+#u1197.MuseMenuActive,#u192:hover
 {
 	width: 190px;
 	min-height: 0px;
@@ -205,7 +240,7 @@
 	left: 2px;
 }
 
-#u185.MuseMenuActive #u187-4,#u192:hover #u195-4
+#u1197.MuseMenuActive #u1200-4,#u192:hover #u195-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -317,7 +352,7 @@
 	top: 36px;
 }
 
-#u164,#u184,#u191,#u198,#u985
+#u164,#u184,#u1194,#u191,#u198,#u985
 {
 	width: 190px;
 }

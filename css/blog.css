@@ -4,8 +4,8 @@
 
 .version.blog /* version checker */
 {
-	color: #0000F4;
-	background-color: #C4DC9F;
+	color: #00001D;
+	background-color: #04F7C8;
 }
 
 .html
@@ -38,7 +38,7 @@
 
 #u1174
 {
-	z-index: 91;
+	z-index: 97;
 	height: 94px;
 	-pie-box-shadow: 0px 0px 23px #000000;
 	box-shadow: 0px 0px 23px #000000;
@@ -47,7 +47,7 @@
 
 #u1174-bw
 {
-	z-index: 91;
+	z-index: 97;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -56,7 +56,7 @@
 
 #u1180
 {
-	z-index: 89;
+	z-index: 95;
 	min-height: 808px;
 	border-style: none;
 	border-color: transparent;
@@ -67,12 +67,12 @@
 
 #u1180-bw
 {
-	z-index: 89;
+	z-index: 95;
 }
 
 #u1176
 {
-	z-index: 96;
+	z-index: 102;
 	overflow: hidden;
 	position: fixed;
 	top: 31px;
@@ -234,6 +234,41 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u1197
+{
+	width: 190px;
+	padding-bottom: 6px;
+	margin-right: -10000px;
+}
+
+#u185.MuseMenuActive,#u1197:hover
+{
+	width: 190px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1200-4
+{
+	width: 182px;
+	min-height: 19px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 3px;
+	left: 2px;
+}
+
+#u185.MuseMenuActive #u187-4,#u1197:hover #u1200-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 182px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u192
 {
 	width: 190px;
@@ -241,7 +276,7 @@
 	margin-right: -10000px;
 }
 
-#u185.MuseMenuActive,#u192:hover
+#u1197.MuseMenuActive,#u192:hover
 {
 	width: 190px;
 	min-height: 0px;
@@ -260,7 +295,7 @@
 	left: 2px;
 }
 
-#u185.MuseMenuActive #u187-4,#u192:hover #u195-4
+#u1197.MuseMenuActive #u1200-4,#u192:hover #u195-4
 {
 	padding-top: 4px;
 	padding-bottom: 0px;
@@ -372,7 +407,7 @@
 	top: 36px;
 }
 
-#u164,#u184,#u191,#u198,#u985
+#u164,#u184,#u1194,#u191,#u198,#u985
 {
 	width: 190px;
 }
@@ -768,13 +803,13 @@
 
 #u1175-4
 {
-	z-index: 92;
+	z-index: 98;
 	width: 597px;
 	min-height: 85px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 79px;
 	line-height: 95px;
+	font-size: 79px;
+	color: #FFFFFF;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: fixed;
