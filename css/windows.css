@@ -4,8 +4,8 @@
 
 .version.windows /* version checker */
 {
-	color: #00000D;
-	background-color: #83E122;
+	color: #0000F9;
+	background-color: #1E51BC;
 }
 
 .html
@@ -836,8 +836,8 @@
 	min-height: 85px;
 	background-color: transparent;
 	line-height: 95px;
-	font-size: 79px;
 	color: #FFFFFF;
+	font-size: 79px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: fixed;

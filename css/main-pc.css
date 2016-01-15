@@ -4,8 +4,8 @@
 
 .version.main_pc /* version checker */
 {
-	color: #0000F2;
-	background-color: #E6F8D5;
+	color: #0000F4;
+	background-color: #072B11;
 }
 
 .html
@@ -767,8 +767,8 @@
 	min-height: 85px;
 	background-color: transparent;
 	line-height: 95px;
-	font-size: 79px;
 	color: #FFFFFF;
+	font-size: 79px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 300;
 	position: fixed;
@@ -891,8 +891,8 @@
 	min-height: 38px;
 	background-color: transparent;
 	line-height: 82px;
-	font-size: 68px;
 	color: #E6E6E6;
+	font-size: 68px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-bottom: -13px;
@@ -924,8 +924,8 @@
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 52px;
-	font-size: 43px;
 	color: #CDCCCC;
+	font-size: 43px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 147px;
@@ -948,8 +948,8 @@
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 52px;
-	font-size: 43px;
 	color: #CDCCCC;
+	font-size: 43px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 147px;
@@ -972,8 +972,8 @@
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 52px;
-	font-size: 43px;
 	color: #CDCCCC;
+	font-size: 43px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 147px;
@@ -996,8 +996,8 @@
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 52px;
-	font-size: 43px;
 	color: #CDCCCC;
+	font-size: 43px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 147px;
@@ -1020,8 +1020,8 @@
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 52px;
-	font-size: 43px;
 	color: #CDCCCC;
+	font-size: 43px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 147px;
@@ -1036,8 +1036,8 @@
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 52px;
-	font-size: 43px;
 	color: #CDCCCC;
+	font-size: 43px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 147px;
@@ -1051,8 +1051,8 @@
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 52px;
-	font-size: 43px;
 	color: #CDCCCC;
+	font-size: 43px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 147px;
@@ -1066,8 +1066,8 @@
 	min-height: 46px;
 	background-color: transparent;
 	line-height: 52px;
-	font-size: 43px;
 	color: #CDCCCC;
+	font-size: 43px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 147px;
@@ -1117,8 +1117,8 @@
 	min-height: 38px;
 	background-color: transparent;
 	line-height: 82px;
-	font-size: 68px;
 	color: #E6E6E6;
+	font-size: 68px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -1133,8 +1133,8 @@
 	min-height: 266px;
 	background-color: transparent;
 	line-height: 52px;
-	font-size: 43px;
 	color: #CDCCCC;
+	font-size: 43px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 20px;
@@ -1170,8 +1170,8 @@
 	min-height: 38px;
 	background-color: transparent;
 	line-height: 82px;
-	font-size: 68px;
 	color: #E6E6E6;
+	font-size: 68px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -1186,8 +1186,8 @@
 	min-height: 266px;
 	background-color: transparent;
 	line-height: 52px;
-	font-size: 43px;
 	color: #CDCCCC;
+	font-size: 43px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 20px;
@@ -1209,18 +1209,18 @@
 @font-face
 {
 	font-family: '__Ostrich Sans_5';
-	src: url('../fonts/ostrichsans-light-webfont.eot');
-	src: local('☺'), url('../fonts/ostrichsans-light-webfont.woff') format('woff'), url('../fonts/ostrichsans-light-webfont.svg') format('svg');
-	font-weight: 300;
+	src: url('../fonts/ostrichsans-medium-webfont.eot');
+	src: local('☺'), url('../fonts/ostrichsans-medium-webfont.woff') format('woff'), url('../fonts/ostrichsans-medium-webfont.svg') format('svg');
+	font-weight: 500;
 	font-style: normal;
 }
 
 @font-face
 {
 	font-family: '__Ostrich Sans_5';
-	src: url('../fonts/ostrichsans-medium-webfont.eot');
-	src: local('☺'), url('../fonts/ostrichsans-medium-webfont.woff') format('woff'), url('../fonts/ostrichsans-medium-webfont.svg') format('svg');
-	font-weight: 500;
+	src: url('../fonts/ostrichsans-light-webfont.eot');
+	src: local('☺'), url('../fonts/ostrichsans-light-webfont.woff') format('woff'), url('../fonts/ostrichsans-light-webfont.svg') format('svg');
+	font-weight: 300;
 	font-style: normal;
 }
 

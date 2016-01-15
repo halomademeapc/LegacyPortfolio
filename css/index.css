@@ -4,8 +4,8 @@
 
 .version.index /* version checker */
 {
-	color: #0000E8;
-	background-color: #C0A5D8;
+	color: #0000FA;
+	background-color: #A53FFD;
 }
 
 .html
@@ -744,8 +744,8 @@
 	width: 515px;
 	min-height: 64px;
 	background-color: transparent;
-	text-align: center;
 	color: #DCDCDC;
+	text-align: center;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	left: 323px;

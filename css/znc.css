@@ -4,8 +4,8 @@
 
 .version.znc /* version checker */
 {
-	color: #000009;
-	background-color: #4BC505;
+	color: #0000E0;
+	background-color: #E3FE08;
 }
 
 .html
@@ -768,8 +768,8 @@
 	min-height: 85px;
 	background-color: transparent;
 	line-height: 95px;
-	font-size: 79px;
 	color: #FFFFFF;
+	font-size: 79px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: fixed;
@@ -816,8 +816,8 @@
 	min-height: 38px;
 	background-color: transparent;
 	line-height: 58px;
-	font-size: 48px;
 	color: #E6E6E6;
+	font-size: 48px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;
@@ -831,8 +831,8 @@
 	min-height: 38px;
 	background-color: transparent;
 	line-height: 38px;
-	font-size: 32px;
 	color: #7F7F7F;
+	font-size: 32px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: relative;

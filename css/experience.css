@@ -4,8 +4,8 @@
 
 .version.experience /* version checker */
 {
-	color: #0000E6;
-	background-color: #5FEA45;
+	color: #0000F0;
+	background-color: #40067F;
 }
 
 .html
@@ -767,8 +767,8 @@
 	min-height: 85px;
 	background-color: transparent;
 	line-height: 95px;
-	font-size: 79px;
 	color: #FFFFFF;
+	font-size: 79px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: fixed;
@@ -783,8 +783,8 @@
 	min-height: 38px;
 	background-color: transparent;
 	line-height: 58px;
-	font-size: 48px;
 	color: #E6E6E6;
+	font-size: 48px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 20px;
@@ -811,9 +811,9 @@
 	min-height: 16px;
 	background-color: transparent;
 	line-height: 18px;
-	text-align: right;
-	font-size: 15px;
 	color: #FFFFFF;
+	font-size: 15px;
+	text-align: right;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -838,9 +838,9 @@
 	min-height: 16px;
 	background-color: transparent;
 	line-height: 18px;
-	text-align: left;
-	font-size: 15px;
 	color: #FFFFFF;
+	font-size: 15px;
+	text-align: left;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -884,9 +884,9 @@
 	min-height: 16px;
 	background-color: transparent;
 	line-height: 18px;
-	text-align: right;
-	font-size: 15px;
 	color: #FFFFFF;
+	font-size: 15px;
+	text-align: right;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -911,9 +911,9 @@
 	min-height: 16px;
 	background-color: transparent;
 	line-height: 18px;
-	text-align: left;
-	font-size: 15px;
 	color: #FFFFFF;
+	font-size: 15px;
+	text-align: left;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -928,8 +928,8 @@
 	min-height: 38px;
 	background-color: transparent;
 	line-height: 58px;
-	font-size: 48px;
 	color: #E6E6E6;
+	font-size: 48px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	margin-left: 19px;
@@ -944,8 +944,8 @@
 	min-height: 26px;
 	background-color: transparent;
 	line-height: 22px;
-	font-size: 18px;
 	color: #FFFFFF;
+	font-size: 18px;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	margin-left: 19px;
@@ -959,8 +959,8 @@
 	width: 218px;
 	min-height: 16px;
 	background-color: transparent;
-	text-align: right;
 	color: #FFFFFF;
+	text-align: right;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -983,9 +983,9 @@
 	min-height: 16px;
 	background-color: transparent;
 	line-height: 18px;
-	text-align: left;
-	font-size: 15px;
 	color: #FFFFFF;
+	font-size: 15px;
+	text-align: left;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1007,8 +1007,8 @@
 	width: 218px;
 	min-height: 16px;
 	background-color: transparent;
-	text-align: right;
 	color: #FFFFFF;
+	text-align: right;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1031,9 +1031,9 @@
 	min-height: 16px;
 	background-color: transparent;
 	line-height: 18px;
-	text-align: left;
-	font-size: 15px;
 	color: #FFFFFF;
+	font-size: 15px;
+	text-align: left;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1049,8 +1049,8 @@
 	min-height: 26px;
 	background-color: transparent;
 	line-height: 22px;
-	font-size: 18px;
 	color: #FFFFFF;
+	font-size: 18px;
 	font-family: droid-sans, sans-serif;
 	font-weight: 700;
 	margin-left: 19px;
@@ -1070,8 +1070,8 @@
 	width: 218px;
 	min-height: 16px;
 	background-color: transparent;
-	text-align: right;
 	color: #FFFFFF;
+	text-align: right;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1110,9 +1110,9 @@
 	min-height: 16px;
 	background-color: transparent;
 	line-height: 18px;
-	text-align: left;
-	font-size: 15px;
 	color: #FFFFFF;
+	font-size: 15px;
+	text-align: left;
 	font-family: droid-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
