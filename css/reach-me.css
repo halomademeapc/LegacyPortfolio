@@ -4,8 +4,8 @@
 
 .version.reach_me /* version checker */
 {
-	color: #0000F8;
-	background-color: #E506BA;
+	color: #0000FB;
+	background-color: #292F76;
 }
 
 .html
@@ -821,13 +821,6 @@
 	left: 761px;
 }
 
-#pu736
-{
-	width: 0.01px;
-	margin-left: 19px;
-	margin-top: 30px;
-}
-
 #u736
 {
 	z-index: 89;
@@ -882,7 +875,35 @@
 	left: 761px;
 }
 
-#U794_animation,#U773_animation,#U777_animation,#U784_animation,#U1403_animation,#U769_animation,#U1399_animation,#U1407_animation,#U1411_animation,#U1415_animation
+#pu736,#pu1419
+{
+	width: 0.01px;
+	margin-left: 19px;
+	margin-top: 30px;
+}
+
+#u1419
+{
+	z-index: 105;
+	width: 160px;
+	height: 160px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1420
+{
+	z-index: 106;
+	width: 160px;
+	height: 160px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 190px;
+}
+
+#U794_animation,#U773_animation,#U777_animation,#U784_animation,#U1403_animation,#U769_animation,#U1399_animation,#U1407_animation,#U1411_animation,#U1415_animation,#U1422_animation,#U1426_animation
 {
 	width: 160px;
 	height: 160px;

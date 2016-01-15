@@ -1,18 +1,18 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452891059838">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452892240502">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="3976245357" ref="experience:photography:main-pc:reach-me:index:windows:art:znc:servers:about:graphic-design:pc-builds:3d-modelingrendering"/>
     <file name="experience.css" crc="4030727807" ref="experience"/>
     <file name="photography.css" crc="350703687" ref="photography"/>
     <file name="main-pc.css" crc="4094110481" ref="main-pc"/>
-    <file name="reach-me.css" crc="4175759034" ref="reach-me"/>
+    <file name="reach-me.css" crc="4213780342" ref="reach-me"/>
     <file name="index.css" crc="4205133821" ref="index"/>
     <file name="windows.css" crc="4179513788" ref="windows"/>
     <file name="art.css" crc="4264742970" ref="art"/>
     <file name="znc.css" crc="3773038088" ref="znc"/>
     <file name="servers.css" crc="4264742970" ref="servers"/>
     <file name="about.css" crc="4264742970" ref="about"/>
-    <file name="graphic-design.css" crc="204443413" ref="graphic-design"/>
+    <file name="graphic-design.css" crc="4070901191" ref="graphic-design"/>
     <file name="pc-builds.css" crc="4264742970" ref="pc-builds"/>
     <file name="3d-modelingrendering.css" crc="4155094269" ref="3d-modelingrendering"/>
   </folder>
@@ -25,6 +25,46 @@
     <file name="ostrichsans-light-webfont.svg" crc="227368146"/>
   </folder>
   <folder name="assets">
+    <folder name="github">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1452892036000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="4038517571" mt="1452892036000"/>
+        <file name="Poster.png" crc="3814830246" mt="1452892036000"/>
+        <file name="Poster2.png" crc="509204195" mt="1452892036000"/>
+        <file name="Poster3.png" crc="509204195" mt="1452892036000"/>
+        <file name="Poster4.png" crc="4038517571" mt="1452892036000"/>
+        <file name="facebook.svg" crc="259021463" mt="1452892036000"/>
+        <file name="github.svg" crc="387913569" mt="1452892036000"/>
+        <file name="psn.svg" crc="34034795" mt="1452892036000"/>
+        <file name="Xbox_one_logo (1).svg" crc="400048154" mt="1452892036000"/>
+        <file name="youtube.svg" crc="81191171" mt="1452892036000"/>
+      </folder>
+      <file name="github_edge.js" crc="133352022" mt="1452892036000"/>
+      <file name="github.html" crc="396465880" mt="1452892036000"/>
+    </folder>
+    <folder name="da">
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1452892198000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="3852529260" mt="1452892198000"/>
+        <file name="Poster.png" crc="3814830246" mt="1452892198000"/>
+        <file name="Poster2.png" crc="509204195" mt="1452892198000"/>
+        <file name="Poster3.png" crc="509204195" mt="1452892198000"/>
+        <file name="Poster4.png" crc="4038517571" mt="1452892198000"/>
+        <file name="Poster5.png" crc="3852529260" mt="1452892198000"/>
+        <file name="da.svg" crc="3766727725" mt="1452892198000"/>
+        <file name="facebook.svg" crc="259021463" mt="1452892198000"/>
+        <file name="github.svg" crc="387913569" mt="1452892198000"/>
+        <file name="psn.svg" crc="34034795" mt="1452892198000"/>
+        <file name="Xbox_one_logo (1).svg" crc="400048154" mt="1452892198000"/>
+        <file name="youtube.svg" crc="81191171" mt="1452892198000"/>
+      </folder>
+      <file name="da_edge.js" crc="4025604720" mt="1452892198000"/>
+      <file name="da.html" crc="4291591911" mt="1452892198000"/>
+    </folder>
     <folder name="xbl">
       <folder name="edge_includes">
         <file name="edge.6.0.0.min.js" crc="3929159849" mt="1452890944000"/>
@@ -207,11 +247,11 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="main-pc"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="422724322" ref="index"/>
+    <file name="a-master-favicon.ico" crc="422724322" ref="index:reach-me"/>
     <file name="haloflat.svg" crc="490379336" ref="index"/>
     <file name="haloflat_poster_.png" crc="1427023" ref="index"/>
     <file name="flat.svg" crc="4058176026" ref="graphic-design:photography:znc:windows:reach-me:experience:main-pc:3d-modelingrendering"/>
-    <file name="flat_poster_.png" crc="325934479" ref="graphic-design"/>
+    <file name="flat_poster_.png" crc="325934479" ref="graphic-design:reach-me"/>
     <file name="spotifyfull.svg" crc="64750895" ref="graphic-design"/>
     <file name="spotifyfull_poster_.png" crc="177409368" ref="graphic-design"/>
     <file name="weather.svg" crc="279665341" ref="graphic-design"/>
@@ -291,15 +331,15 @@
     <file name="widem.jpg" crc="311052290" seo="true" ref="3d-modelingrendering"/>
     <file name="rytyrtu.jpg" crc="4189822285" seo="true" ref="3d-modelingrendering"/>
   </folder>
-  <file name="index.html" crc="3767592100" seo="true" mt="1452889259142" redirect="true"/>
+  <file name="index.html" crc="3767592100" seo="true" mt="1452891692937" redirect="true"/>
   <file name="servers.html" crc="4240318912" seo="true" mt="1452889246219" redirect="true"/>
   <file name="art.html" crc="3840819312" seo="true" mt="1452889246219" redirect="true"/>
-  <file name="graphic-design.html" crc="4085248361" seo="true" mt="1452889246219" redirect="true"/>
+  <file name="graphic-design.html" crc="4085248361" seo="true" mt="1452891692940" redirect="true"/>
   <file name="photography.html" crc="407174769" seo="true" mt="1452889246219" redirect="true"/>
   <file name="about.html" crc="4205580234" seo="true" mt="1452889246219" redirect="true"/>
   <file name="znc.html" crc="287171209" seo="true" mt="1452889246219" redirect="true"/>
   <file name="windows.html" crc="441328010" seo="true" mt="1452889246219" redirect="true"/>
-  <file name="reach-me.html" crc="378834178" seo="true" mt="1452891041331" redirect="true"/>
+  <file name="reach-me.html" crc="3901624437" seo="true" mt="1452892233753" redirect="true"/>
   <file name="experience.html" crc="4104898904" seo="true" mt="1452889246219" redirect="true"/>
   <file name="main-pc.html" crc="387374080" seo="true" mt="1452889246219" redirect="true"/>
   <file name="3d-modelingrendering.html" crc="3845646799" seo="true" mt="1452889246219" redirect="true"/>
