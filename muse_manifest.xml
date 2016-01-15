@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452892240502">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452892556039">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="3976245357" ref="experience:photography:main-pc:reach-me:index:windows:art:znc:servers:about:graphic-design:pc-builds:3d-modelingrendering"/>
     <file name="experience.css" crc="4030727807" ref="experience"/>
     <file name="photography.css" crc="350703687" ref="photography"/>
     <file name="main-pc.css" crc="4094110481" ref="main-pc"/>
-    <file name="reach-me.css" crc="4213780342" ref="reach-me"/>
+    <file name="reach-me.css" crc="4216277035" ref="reach-me"/>
     <file name="index.css" crc="4205133821" ref="index"/>
     <file name="windows.css" crc="4179513788" ref="windows"/>
     <file name="art.css" crc="4264742970" ref="art"/>
@@ -339,7 +339,7 @@
   <file name="about.html" crc="4205580234" seo="true" mt="1452889246219" redirect="true"/>
   <file name="znc.html" crc="287171209" seo="true" mt="1452889246219" redirect="true"/>
   <file name="windows.html" crc="441328010" seo="true" mt="1452889246219" redirect="true"/>
-  <file name="reach-me.html" crc="3901624437" seo="true" mt="1452892233753" redirect="true"/>
+  <file name="reach-me.html" crc="355403508" seo="true" mt="1452892542421" redirect="true"/>
   <file name="experience.html" crc="4104898904" seo="true" mt="1452889246219" redirect="true"/>
   <file name="main-pc.html" crc="387374080" seo="true" mt="1452889246219" redirect="true"/>
   <file name="3d-modelingrendering.html" crc="3845646799" seo="true" mt="1452889246219" redirect="true"/>
