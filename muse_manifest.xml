@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452904615999">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452904721459">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="3976245357" ref="experience:photography:main-pc:reach-me:index:windows:art:znc:servers:about:graphic-design:pc-builds:3d-modelingrendering"/>
     <file name="experience.css" crc="4030727807" ref="experience"/>
     <file name="photography.css" crc="370800858" ref="photography"/>
     <file name="main-pc.css" crc="4094110481" ref="main-pc"/>
-    <file name="reach-me.css" crc="502744992" ref="reach-me"/>
+    <file name="reach-me.css" crc="4275314488" ref="reach-me"/>
     <file name="index.css" crc="4205133821" ref="index"/>
     <file name="windows.css" crc="4179513788" ref="windows"/>
     <file name="art.css" crc="4264742970" ref="art"/>
@@ -247,11 +247,11 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="main-pc"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="422724322" ref="index:photography"/>
+    <file name="a-master-favicon.ico" crc="422724322" ref="index:photography:reach-me"/>
     <file name="haloflat.svg" crc="490379336" ref="index"/>
     <file name="haloflat_poster_.png" crc="1427023" ref="index"/>
     <file name="flat.svg" crc="4058176026" ref="graphic-design:photography:znc:windows:reach-me:experience:main-pc:3d-modelingrendering"/>
-    <file name="flat_poster_.png" crc="325934479" ref="graphic-design:photography"/>
+    <file name="flat_poster_.png" crc="325934479" ref="graphic-design:photography:reach-me"/>
     <file name="spotifyfull.svg" crc="64750895" ref="graphic-design"/>
     <file name="spotifyfull_poster_.png" crc="177409368" ref="graphic-design"/>
     <file name="weather.svg" crc="279665341" ref="graphic-design"/>
@@ -338,7 +338,7 @@
   <file name="about.html" crc="4205580234" seo="true" mt="1452889246219" redirect="true"/>
   <file name="znc.html" crc="287171209" seo="true" mt="1452889246219" redirect="true"/>
   <file name="windows.html" crc="441328010" seo="true" mt="1452889246219" redirect="true"/>
-  <file name="reach-me.html" crc="75051994" seo="true" mt="1452904409969" redirect="true"/>
+  <file name="reach-me.html" crc="4133917367" seo="true" mt="1452904712431" redirect="true"/>
   <file name="experience.html" crc="4104898904" seo="true" mt="1452889246219" redirect="true"/>
   <file name="main-pc.html" crc="387374080" seo="true" mt="1452889246219" redirect="true"/>
   <file name="3d-modelingrendering.html" crc="3845646799" seo="true" mt="1452889246219" redirect="true"/>

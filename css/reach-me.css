@@ -4,8 +4,8 @@
 
 .version.reach_me /* version checker */
 {
-	color: #00001D;
-	background-color: #F747A0;
+	color: #0000FE;
+	background-color: #D41F38;
 }
 
 .html
@@ -33,10 +33,25 @@
 	width: 0.01px;
 }
 
+#ptop
+{
+	width: 0.01px;
+	margin-left: -89px;
+}
+
+#top
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+}
+
 #menuu154
 {
 	z-index: 2;
 	width: 960px;
+	margin-right: -10000px;
+	left: 89px;
 }
 
 #u155
@@ -732,6 +747,7 @@
 #u789
 {
 	z-index: 106;
+	overflow: hidden;
 	position: fixed;
 	top: 32px;
 	left: -69px;
