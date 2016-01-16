@@ -4,8 +4,8 @@
 
 .version.photography /* version checker */
 {
-	color: #000014;
-	background-color: #E75047;
+	color: #000016;
+	background-color: #19F8DA;
 }
 
 .html
@@ -1280,9 +1280,9 @@
 	width: 597px;
 	min-height: 85px;
 	background-color: transparent;
-	line-height: 95px;
 	color: #FFFFFF;
 	font-size: 79px;
+	line-height: 95px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: fixed;

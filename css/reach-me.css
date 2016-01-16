@@ -4,8 +4,8 @@
 
 .version.reach_me /* version checker */
 {
-	color: #0000FB;
-	background-color: #4F482B;
+	color: #00001D;
+	background-color: #F747A0;
 }
 
 .html
@@ -713,7 +713,7 @@
 
 #u787
 {
-	z-index: 93;
+	z-index: 101;
 	height: 94px;
 	-pie-box-shadow: 0px 0px 23px #000000;
 	box-shadow: 0px 0px 23px #000000;
@@ -722,7 +722,7 @@
 
 #u787-bw
 {
-	z-index: 93;
+	z-index: 101;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -731,7 +731,7 @@
 
 #u789
 {
-	z-index: 98;
+	z-index: 106;
 	position: fixed;
 	top: 32px;
 	left: -69px;
@@ -746,13 +746,13 @@
 
 #u788-4
 {
-	z-index: 94;
+	z-index: 102;
 	width: 597px;
 	min-height: 85px;
 	background-color: transparent;
-	line-height: 95px;
 	color: #FFFFFF;
 	font-size: 79px;
+	line-height: 95px;
 	font-family: '__Ostrich Sans_5';
 	font-weight: 500;
 	position: fixed;
@@ -769,7 +769,7 @@
 
 #u792
 {
-	z-index: 99;
+	z-index: 93;
 	width: 160px;
 	height: 160px;
 	background-color: transparent;
@@ -812,7 +812,7 @@
 
 #u1373
 {
-	z-index: 103;
+	z-index: 97;
 	width: 160px;
 	height: 160px;
 	background-color: transparent;
@@ -840,7 +840,7 @@
 
 #u1420
 {
-	z-index: 106;
+	z-index: 100;
 	width: 160px;
 	height: 160px;
 	background-color: transparent;
@@ -851,18 +851,18 @@
 
 #u1376
 {
-	z-index: 102;
+	z-index: 96;
 	width: 160px;
 	height: 160px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 381px;
+	left: 380px;
 }
 
 #u1375
 {
-	z-index: 101;
+	z-index: 95;
 	width: 160px;
 	height: 160px;
 	background-color: transparent;
@@ -873,7 +873,7 @@
 
 #u1377
 {
-	z-index: 100;
+	z-index: 94;
 	width: 160px;
 	height: 160px;
 	background-color: transparent;
@@ -891,7 +891,7 @@
 
 #u1419
 {
-	z-index: 105;
+	z-index: 99;
 	width: 160px;
 	height: 160px;
 	background-color: transparent;
@@ -902,7 +902,7 @@
 
 #u1374
 {
-	z-index: 104;
+	z-index: 98;
 	width: 160px;
 	height: 160px;
 	background-color: transparent;

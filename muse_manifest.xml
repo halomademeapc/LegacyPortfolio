@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452892556039">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="halomademeapc.com,halomademeapc.github.io" resolutions="1x" timestamp="1452904615999">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="3976245357" ref="experience:photography:main-pc:reach-me:index:windows:art:znc:servers:about:graphic-design:pc-builds:3d-modelingrendering"/>
     <file name="experience.css" crc="4030727807" ref="experience"/>
-    <file name="photography.css" crc="350703687" ref="photography"/>
+    <file name="photography.css" crc="370800858" ref="photography"/>
     <file name="main-pc.css" crc="4094110481" ref="main-pc"/>
-    <file name="reach-me.css" crc="4216277035" ref="reach-me"/>
+    <file name="reach-me.css" crc="502744992" ref="reach-me"/>
     <file name="index.css" crc="4205133821" ref="index"/>
     <file name="windows.css" crc="4179513788" ref="windows"/>
     <file name="art.css" crc="4264742970" ref="art"/>
@@ -247,11 +247,11 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="main-pc"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="422724322" ref="index:reach-me"/>
+    <file name="a-master-favicon.ico" crc="422724322" ref="index:photography"/>
     <file name="haloflat.svg" crc="490379336" ref="index"/>
     <file name="haloflat_poster_.png" crc="1427023" ref="index"/>
     <file name="flat.svg" crc="4058176026" ref="graphic-design:photography:znc:windows:reach-me:experience:main-pc:3d-modelingrendering"/>
-    <file name="flat_poster_.png" crc="325934479" ref="graphic-design:reach-me"/>
+    <file name="flat_poster_.png" crc="325934479" ref="graphic-design:photography"/>
     <file name="spotifyfull.svg" crc="64750895" ref="graphic-design"/>
     <file name="spotifyfull_poster_.png" crc="177409368" ref="graphic-design"/>
     <file name="weather.svg" crc="279665341" ref="graphic-design"/>
@@ -299,7 +299,7 @@
     <file name="2015-12-03.jpg" crc="3932908632" seo="true" ref="main-pc"/>
     <file name="dsc9358.jpg" crc="4092304140" seo="true" ref="main-pc"/>
     <file name="dsc9357.jpg" crc="279453363" seo="true" ref="main-pc"/>
-    <file name="dsc9350.jpg" crc="3985259167" ref="main-pc"/>
+    <file name="dsc9350.jpg" crc="49588588" ref="main-pc:photography" seo="true"/>
     <file name="mobo.svg" crc="4292623665" ref="main-pc"/>
     <file name="mobo_poster_.png" crc="445692713" ref="main-pc"/>
     <file name="cpu.svg" crc="4024063621" ref="main-pc"/>
@@ -314,32 +314,31 @@
     <file name="recover_colorfull.swf" crc="495150500" ref="graphic-design"/>
     <file name="cmy preload.svg" crc="3843909461" ref="graphic-design"/>
     <file name="cmy preload_poster_.png" crc="3831557458" ref="graphic-design"/>
-    <file name="_dsc0067.jpg" crc="141976519" seo="true" ref="photography"/>
-    <file name="_dsc0051.jpg" crc="297069041" seo="true" ref="photography"/>
-    <file name="_dsc9151.jpg" crc="4214705226" seo="true" ref="photography"/>
-    <file name="_dsc9350.jpg" crc="49588588" seo="true" ref="photography"/>
-    <file name="_dsc9435.jpg" crc="4261631291" seo="true" ref="photography"/>
-    <file name="_dsc9472.jpg" crc="316969472" seo="true" ref="photography"/>
-    <file name="_dsc9802.jpg" crc="3874965970" seo="true" ref="photography"/>
-    <file name="_dsc006768x45.jpg" crc="4036914371" seo="true" ref="photography"/>
-    <file name="_dsc005168x45.jpg" crc="289109377" seo="true" ref="photography"/>
-    <file name="_dsc915168x45.jpg" crc="4181863855" seo="true" ref="photography"/>
-    <file name="_dsc935068x45.jpg" crc="3928636889" seo="true" ref="photography"/>
-    <file name="_dsc943568x45.jpg" crc="3985190901" seo="true" ref="photography"/>
-    <file name="_dsc947268x45.jpg" crc="424919100" seo="true" ref="photography"/>
-    <file name="_dsc980268x45.jpg" crc="332047350" seo="true" ref="photography"/>
     <file name="widem.jpg" crc="311052290" seo="true" ref="3d-modelingrendering"/>
     <file name="rytyrtu.jpg" crc="4189822285" seo="true" ref="3d-modelingrendering"/>
+    <file name="dsc0067.jpg" crc="141976519" seo="true" ref="photography"/>
+    <file name="dsc0051.jpg" crc="297069041" seo="true" ref="photography"/>
+    <file name="dsc9151.jpg" crc="4214705226" seo="true" ref="photography"/>
+    <file name="dsc9435.jpg" crc="4261631291" seo="true" ref="photography"/>
+    <file name="dsc9472.jpg" crc="316969472" seo="true" ref="photography"/>
+    <file name="dsc9802.jpg" crc="3874965970" seo="true" ref="photography"/>
+    <file name="dsc006768x45.jpg" crc="4036914371" seo="true" ref="photography"/>
+    <file name="dsc005168x45.jpg" crc="289109377" seo="true" ref="photography"/>
+    <file name="dsc915168x45.jpg" crc="4181863855" seo="true" ref="photography"/>
+    <file name="dsc935068x45.jpg" crc="3928636889" seo="true" ref="photography"/>
+    <file name="dsc943568x45.jpg" crc="3985190901" seo="true" ref="photography"/>
+    <file name="dsc947268x45.jpg" crc="424919100" seo="true" ref="photography"/>
+    <file name="dsc980268x45.jpg" crc="332047350" seo="true" ref="photography"/>
   </folder>
   <file name="index.html" crc="3767592100" seo="true" mt="1452891692937" redirect="true"/>
   <file name="servers.html" crc="4240318912" seo="true" mt="1452889246219" redirect="true"/>
   <file name="art.html" crc="3840819312" seo="true" mt="1452889246219" redirect="true"/>
   <file name="graphic-design.html" crc="4085248361" seo="true" mt="1452891692940" redirect="true"/>
-  <file name="photography.html" crc="407174769" seo="true" mt="1452889246219" redirect="true"/>
+  <file name="photography.html" crc="120820118" seo="true" mt="1452904608740" redirect="true"/>
   <file name="about.html" crc="4205580234" seo="true" mt="1452889246219" redirect="true"/>
   <file name="znc.html" crc="287171209" seo="true" mt="1452889246219" redirect="true"/>
   <file name="windows.html" crc="441328010" seo="true" mt="1452889246219" redirect="true"/>
-  <file name="reach-me.html" crc="355403508" seo="true" mt="1452892542421" redirect="true"/>
+  <file name="reach-me.html" crc="75051994" seo="true" mt="1452904409969" redirect="true"/>
   <file name="experience.html" crc="4104898904" seo="true" mt="1452889246219" redirect="true"/>
   <file name="main-pc.html" crc="387374080" seo="true" mt="1452889246219" redirect="true"/>
   <file name="3d-modelingrendering.html" crc="3845646799" seo="true" mt="1452889246219" redirect="true"/>
