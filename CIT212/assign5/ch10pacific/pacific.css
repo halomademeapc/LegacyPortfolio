@@ -1,0 +1,299 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header, main, nav, footer, figure, figcaption, aside, section, article {
+	display: block;
+}
+
+#mobile {
+	display: none;
+}
+
+#desktop {
+	display: inline;
+}
+
+#wrapper {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #90C7E3;
+	min-width: 960px;
+	max-width: 2048px;
+	box-shadow: 3px 3px 3px #333333;
+}
+
+#homehero {
+	height: 300px;
+	background-image: url(coasthero.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 190px;
+}
+
+#yurthero {
+	height: 300px;
+	background-image: url(yurthero.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 190px;
+}
+
+#trailhero {
+	height: 300px;
+	background-image: url(trailhero.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	margin-left: 190px;
+}
+
+body { 
+	background-color:#4F6D93; 
+	background-image: linear-gradient(to bottom, #FFFFFF, #4F6D93);
+	background-repeat: no-repeat;
+	color:#666666; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+	
+h1 {
+	background-color:#000033; 
+	color:#FFFFFF; margin-bottom:0; 
+	background-image: url(sunset.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	font-family: Georgia, Times New Roman, serif;
+	height: 60px;
+	text-align: center;
+	padding-top: 15px;
+	margin-top: 0;
+}
+	
+nav {
+	ont-weight: bold;
+	padding: 20px;
+	width: 160px;
+	float: left;
+}
+	
+nav a {
+	text-decoration: none;
+}
+
+nav a:link {
+	color: #000033;
+}
+
+nav a:visited {
+	color: #344873;
+}
+
+nav a:hover {
+	color: #FFFFFF;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding-left: 0;
+	font-size: 1.2em;
+}
+
+main {
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	display: block;
+	background-color: #FFFFFF;
+	margin-left: 190px;
+}
+	
+h2 {
+	color:#3399CC;
+	font-family: Georgia, Times New Roman, serif;
+	text-shadow: 1px 1px 1px #CCCCCC;
+}
+
+h3 {
+	font-family: Georgia, Times New Roman, serif;
+	color: black;
+}
+	
+dt {
+	color:#000033;
+	font-weight: bold;
+}
+	
+resort {
+	color:#5C7FA3;
+}
+
+main ul {
+	list-style-image: url(marker.gif);
+}
+
+footer {
+	font-size: 75%;
+	font-style: italic;
+	text-align: center;
+	font-family: Georgia, Times New Roman, serif; 
+	padding: 20px;
+	background-color: #FFFFFF;
+	margin-left: 190px;
+}
+
+resort {
+	font-weight: bold;
+	color:#5C7FA3;
+}
+
+contact {
+	font-size: 90%;
+}
+
+table {
+	border-color: #3399CC;
+	border-width: 1px;
+	width: 80%;
+	border-spacing: 0;
+}
+
+table tr:nth-child(odd) {
+	background-color: #F5FAFC;
+}
+
+tr, td {
+	padding: 5px;
+	border-color: #3399CC;
+	border-width: 1px;
+}
+
+td {
+	text-align: center;
+}
+
+text {
+	text-align: left;
+	display: block;
+}
+
+thead {
+	font-weight: bold;
+}
+
+label {
+	float: left;
+	display: block;
+	text-align: right;
+	width: 120px;
+	padding-right: 20px;
+}
+
+input, textarea {
+	display: block;
+	margin-bottom: 20px;
+}
+
+input[type="submit"] {
+	margin-left: 130px;
+}
+
+
+
+@media only screen and (max-width: 64em) {
+	body {
+		margin: 0;
+		background-color: #FFFFFF;
+	}
+	
+	#wrapper {
+		min-width: 0px;
+		width: auto;
+		box-shadow: none;
+	}
+	
+	main {
+		margin-left: 0;
+	}
+	
+	nav {
+		float: none;
+		width: auto;
+		text-align: center;
+		padding: .5em;
+	}
+	
+	nav li {
+		display: inline;
+		padding-bottom: .25em;
+		padding-top: .25em;
+		padding-left: .75em;
+		padding-right: .75em;
+	}
+	
+	#homehero, #yurthero, #trailhero {
+		margin-left: 0;
+		height: 200px;
+	}
+	
+	footer {
+		margin-left: 0;
+	}
+}
+
+@media only screen and (max-width : 37.500em ){
+	header {
+		padding-top: 1em;
+	}
+	
+	main {
+		padding-top: .1em;
+		padding-bottom: .1em;
+		padding-left: 1em;
+		padding-right: 1em;
+		font-size: 90%;
+	}
+	
+	h1 {
+		font-size: 1.5em;
+	}
+	
+	nav
+	{
+		padding: 0;
+	}
+	
+	nav li {
+		margin: 0;
+		border-bottom: 2px solid #330000;
+		display: block;
+		
+		
+	}
+	
+	nav a {
+		display: block;
+	}
+	
+	#homehero, #yurthero, #trailhero {
+		background-image: none;
+		height: 0;
+	}
+	
+	#mobile {
+		display: inline;
+	}
+	
+	#desktop {
+		display: none;
+	}
+	
+	label {
+		fload: none;
+		text-align: left;
+	}
+	
+	input[type="submit"] {
+		margin-left: 0;
+	}
+}

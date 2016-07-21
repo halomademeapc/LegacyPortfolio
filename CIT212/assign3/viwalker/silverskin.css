@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+	
+	background-color: #626262;
+	background-image: url(bodygrad.png);
+	background-repeat: repeat-y;
+	background-position: center;
+}
+
+h_back {
+	background-color:#2B2B2B;
+	display: block;
+	width: 100%;
+	padding: 10px;
+	margin: 0px;
+}
+
+h_content {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 960px;
+	height: 120px;
+	color: #CCCCCC;
+	background-image: url(logo.svg);
+	background-repeat: no-repeat;
+	background-position: left;
+	line-height: 200%;
+}
+
+nav_back {
+	display: block;
+	background-image: url(navbargrad.png);
+	height: 43px;
+	width: 100%;
+}
+
+nav_content {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 960px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #838383;
+	font-size: 26px;
+	text-align: center;
+	font-stretch: ultra-condensed;
+}
+
+nav_content a {
+	text-decoration: none;
+	color: inherit;
+}
+
+nav_button {
+	display: inline-block;
+	width: 130px;
+	text-align: center;
+	margin-left: 0;
+	margin-right: 0;
+	height: 32px; 
+}
+
+nav_button a {
+	text-decoration: none;
+	color: inherit;
+}
+
+nav_button:hover
+{
+	background-color: #3C3C3C;
+	color: #DDDDDD;
+}
+
+body_content {
+	width: 920px;
+	padding: 0px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+	
+heading_clock {
+	position:relative;
+	top: -11px;
+	left: -20px;
+	display: block;
+	width: 960px;
+	height: 220px;
+	background-color: #626262;
+	background-image: url(clock.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	z-index: 0;
+}
+
+heading_clock-content {
+	position: absolute;
+	bottom: 0;
+	left: 20px;
+	
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 96px
+}
+
+main_text {
+	position:relative;
+}
+
+h1 {
+	left: 20px;
+	
+	color: #363636;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 48px
+}
