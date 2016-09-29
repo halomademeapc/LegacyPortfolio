@@ -2,12 +2,14 @@
 /* CSS Document */
 
 @import 'https://fonts.googleapis.com/css?family=Raleway';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:400,700';
 
 html, body
 {
     margin: 0px;
 	background-color: #D2D2D2;
 	z-index: -2;
+	font-family: 'Open Sans', sans-serif;
 }
 
 header, footer
@@ -17,6 +19,20 @@ header, footer
 	padding: 5em 3em;
 	text-align: center;
     background: #555;
+}
+
+#pagetitle
+{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 300%;
+	display: block;
+	width: 100%;
+	background-image: url(images/fader.svg);
+	background-position: center;
+	background-size: 100%;
+	margin-top: -2em;
+	padding-top: 2em;
+	padding-bottom: 1em;
 }
 
 timewrapper
@@ -38,7 +54,7 @@ timewrapper
 
 .timemark
 {
-	font-family: Raleway;
+	font-family: 'Open Sans', sans-serif;
 	color: #0099CC;
 	font-size: x-large;
 	float: left;
@@ -49,18 +65,76 @@ timewrapper
 	background-repeat: no-repeat;
 	background-position: right;
 	padding-right: 1.9em;
+	margin-left: auto;
+	width: 2.2em;
+	
 }
 
 .timebox
 {
+	font-family: 'Open Sans', sans-serif;
+	color: #4D4D4D;
 	padding-left: 4em;
 	margin-left: 5em;
 	border-left: thick dashed #0099CC;
 }
 
-.timestop
+.timebox eventname
+{
+	padding-top: 1.5em;
+	color: black;
+	display: block;
+	font-size: x-large;
+}
+
+.timebox flavor
+{
+	color: black;
+	display: block;
+	font-size: small;
+	border-bottom: thin solid #CACACA;
+}
+
+.timebox desc
 {
 	
+	display: block;
+	
+}
+
+#filterlist
+{
+	background-color: #E7E7E7
+	;	
+	display: block;
+	width: 100%;
+	font-size: small;
+	text-align: right;
+	color: #858585;
+	margin-bottom: 2em;
+}
+
+#filterlist option
+{
+	display: inline-block;
+	color: #595959;
+}
+
+.timebox td
+{
+	padding-right: 1.3em;
+}
+
+.course
+{
+}
+
+.volunteer
+{
+}
+
+.work
+{
 }
 
 header h1
