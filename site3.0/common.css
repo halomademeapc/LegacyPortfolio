@@ -65,8 +65,9 @@ timewrapper
 	background-repeat: no-repeat;
 	background-position: right;
 	padding-right: 1.9em;
-	margin-left: auto;
-	width: 2.2em;
+	margin-left: -1.4em;
+	width: 3.6em;
+	margin-right: 2em;
 	
 }
 
@@ -77,6 +78,7 @@ timewrapper
 	padding-left: 4em;
 	margin-left: 5em;
 	border-left: thick dashed #0099CC;
+	background-color: inherit;
 }
 
 .timebox eventname
@@ -102,6 +104,37 @@ timewrapper
 	
 }
 
+.descphoto
+{
+	display: block;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-align: right;
+}
+
+albumlink
+{
+	
+	font-size: small;
+	display: inline-block;
+	width: 14em;
+	background-color: #E7E7E7;
+	padding: .2em;
+	text-align: right;
+	padding-right: 2em;
+	background-size: 1.5em;
+	background-image: url(images/Google_Photos_icon.svg);
+	background-repeat: no-repeat;
+	background-position: right;
+	border-radius: .5em;
+}
+
+albumlink a
+{
+	text-decoration: none;
+	color: inherit;
+}
+
 #filterlist
 {
 	background-color: #E7E7E7
@@ -112,12 +145,17 @@ timewrapper
 	text-align: right;
 	color: #858585;
 	margin-bottom: 2em;
+	margin-left: -1em;
+	padding-right: 1em;
 }
 
-#filterlist option
+.option
 {
 	display: inline-block;
+	margin-left: .2em;
+	margin-right: .2em;
 	color: #595959;
+	cursor: pointer;
 }
 
 .timebox td
@@ -199,6 +237,7 @@ div.borderXwidth a:hover:before, div.borderXwidth a:hover:after
 	box-shadow: 0 0 .6em #000;
 	z-index: 50;
 	position: fixed;
+	top: 0;
 }
 
 .navbarback a
