@@ -324,3 +324,22 @@ a.blade
 {
 	background-image: url(images/vid.JPG);
 }
+
+social
+{
+	display: table;
+	width: 100%;
+	table-layout: fixed;
+	text-align: center;
+}
+
+social iframe
+{
+	width: 160px;
+	height: 160px;
+	seamless: seamless;
+	border: 0;
+	margin: 20px;
+
+	display: inline-block;
+}
