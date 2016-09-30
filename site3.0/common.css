@@ -280,11 +280,47 @@ div.borderXwidth a:hover:before, div.borderXwidth a:hover:after
 {
 	margin-top: .3em;
 	display: block;
-	width: 100%;
+	width: 95%;
 	vertical-align: middle;
 	height: 10vw;
 	font-family: 'Geniso', 'Open Sans', sans-serif;
 	font-size: 6vw;
 	text-align: center;
 	background-color: #DBDBDB;
+	background-size:100%;
+	color: white;
+	cursor: pointer;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a.blade
+{
+	text-decoration: none;
+	color: inherit;
+}
+
+#graphicdesign
+{
+	background-image: url(images/graphic.jpg);
+}
+
+#modeling
+{
+	background-image: url(images/model.jpg);
+}
+
+#photography
+{
+	background-image: url(images/photo.jpg);
+}
+
+#vectorart
+{
+	background-image: url(images/vector.jpg);
+}
+
+#videos
+{
+	background-image: url(images/vid.JPG);
 }
