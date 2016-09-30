@@ -3,6 +3,18 @@
 
 @import 'https://fonts.googleapis.com/css?family=Raleway';
 @import 'https://fonts.googleapis.com/css?family=Open+Sans:400,700';
+@font-face {
+	font-family: 'GENISO';
+	src: url('fonts/GENISO.eot');
+	src: url('fonts/GENISO.eot?#iefix') format('embedded-opentype'),
+		url('fonts/GENISO.woff2') format('woff2'),
+		url('fonts/GENISO.woff') format('woff'),
+		url('fonts/GENISO.ttf') format('truetype'),
+		url('fonts/GENISO.svg#GENISO') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
 
 html, body
 {
@@ -249,6 +261,8 @@ div.borderXwidth a:hover:before, div.borderXwidth a:hover:after
 	position: relative;
 	vertical-align: middle;
 	color: inherit;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .navbarback img
@@ -258,4 +272,19 @@ div.borderXwidth a:hover:before, div.borderXwidth a:hover:after
 	position: relative;
 	padding-right: 1em;
 	vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.blade
+{
+	margin-top: .3em;
+	display: block;
+	width: 100%;
+	vertical-align: middle;
+	height: 10vw;
+	font-family: 'Geniso', 'Open Sans', sans-serif;
+	font-size: 6vw;
+	text-align: center;
+	background-color: #DBDBDB;
 }
