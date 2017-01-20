@@ -17,11 +17,24 @@
 <div id="pagetitle">
 Photography
 </div>
+<div class="redir">
+	You are being redirected to an external site...
+</div>
+<div class="loadbar">
+	<div class="prog"></div>
+</div>
 
 </timewrapper>
 
 
 <script src="common.js"></script>
-<script src="creations.js"></script>
+<script>
+	$(function() {
+		$('.prog').animate({
+			width: '100%'}, 5000,
+			function() {window.location.replace("https://www.flickr.com/photos/151310944@N04");
+	   });
+	});
+	</script>
 </body>
 </html>
