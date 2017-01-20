@@ -295,6 +295,10 @@ div.borderXwidth a:hover:before, div.borderXwidth a:hover:after
 	text-decoration: none;
 }
 
+a {
+	text-decoration: none;
+}
+
 a.blade
 {
 	text-decoration: none;
@@ -376,4 +380,20 @@ social iframe
 	padding-left: 2em;
 	padding-right: 2em;
 	
+}
+
+.loadbar {
+	display: block;
+	background-color: #CAE5FD;
+	width: 100%;
+	height: .25em;
+	margin-top: 3em;
+	margin-bottom: 1em;
+}
+
+.prog {
+	display: block;
+	width: 50%;
+	background-color: #28B2FF;
+	height: .25em;
 }

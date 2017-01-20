@@ -16,11 +16,24 @@
 <div id="pagetitle">
 Videos
 </div>
+<div class="redir">
+	You are being redirected to an external site...
+</div>
+<div class="loadbar">
+	<div class="prog"></div>
+</div>
 
 </timewrapper>
 
 
 <script src="common.js"></script>
-<script src="creations.js"></script>
+<script>
+	$('.prog').animate({
+		width: 100%},
+		5000, function() {
+			window.location.replace("https://www.youtube.com/halomademeapc");
+		}
+	);
+	</script>
 </body>
 </html>
