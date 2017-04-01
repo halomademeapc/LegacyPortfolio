@@ -3,7 +3,7 @@
 main, footer, figure, figcaption, aside, section, article { display: block; }
 
 /* change background-color property if the mask should have another color then white */
-#preloader { position:absolute; top:0; left:0; right:0; bottom:0; background-color:#000;  z-index:99; /* makes sure it stays on top */ }
+#preloader { position:absolute; top:0; left:0; right:0; bottom:0; background-color:#000;  z-index:9999; /* makes sure it stays on top */ }
 
 html, body { width: 1920px; max-width: 1920px; height: auto; max-height: 1080px; overflow: hidden;  background-color: #fff 
 no-repeat center center fixed; 
@@ -85,6 +85,9 @@ z-index: 9999;}
 
 #close { position: absolute; top: 100px; left: 1250px; z-index: 99999; opacity: .25;}
 #close img {}
+
+
+#fullRapp { position: absolute; z-index: 1; }
 /* Folding Table Nav */
 a:active {
     background-color: white;
@@ -169,11 +172,11 @@ a:active {
 
 
 
-#footer { position: absolute; top: 995px; left: 10px; width: 1920px; height: 62px; }
+#footer { position: absolute; top: 995px; left: 10px; width: 1920px; height: 62px; z-index: 9999;}
 #footerNav li { float: left; margin-left: 30px; list-style-type: none; }
 #footerNav li img { max-height: 62px; }
 
-#IconBox { position: absolute; top: 0px; left: 1720px;z-index: 9998; opacity: .5;}
+#IconBox { position: absolute; top: 0px; left: 1720px;z-index: 9999; opacity: .5;}
 #upArrow {position: absolute; top: 5px; left: 1790px;z-index: 9999;}
 #chair { position: absolute; top: 40px; left: 1720px;z-index: 9999; opacity: ;}
 #lighting { position: absolute; top: 470px; left: 1720px;z-index: 9999; opacity: ;}
@@ -214,7 +217,7 @@ a:active {
 #redButton { position: absolute; top: 285px; left: 1225px;z-index: 9999; opacity: .0;}
 #redButton img { width: 40px; height: 130px;}
 
-#redtable { position: absolute; top: 650px; left: 0px;z-index: 9999; opacity: ;}
+#redtable {position: absolute; top: px; left: 0px;z-index: 1 ; opacity: ;}
 #redtable img {}
 
 #close { position: absolute; top: 0px; left: 1570px; z-index: 99999; opacity: .0;}
@@ -223,12 +226,12 @@ a:active {
 #blackButton { position: absolute; top: 422px; left: 655px;z-index: 9999; opacity: .0;}
 #blackButton img { width: 630px; height: 15px;}
 
-#blacktable { position: absolute; top: 650px; left: 0px;z-index: 555; opacity: ;}
+#blacktable {position: absolute; top: px; left: 0px;z-index: 1 ; opacity: ;}
 #blacktable img {}
 
-#bluetable { position: absolute; top: 750px; left: 0px;z-index: 555; opacity: ;}
+#bluetable { position: absolute; top: px; left: 0px;z-index: 1 ; opacity: ;}
 #bluetable img {}
-
+#shadow {position: absolute; top: px; left: 0px;z-index:0 ; opacity: ;}
 #Logo { position: absolute; top: 25px; left: 25px;z-index: 9999;}
 #Logo img { max-height: 250px;}
 
@@ -255,6 +258,7 @@ a:active {
 
 #Canal { position: absolute; top: 1030px; left: 1350px;z-index: 9999;}
 #Canal img { max-height: 250px;}
+
 
 a.return
 {
@@ -327,10 +331,10 @@ a.return
 
 /* Bottom Border */
 #BottomBorder {position: absolute; bottom: 50px; right:0px;
-background-color: aliceblue;
+background-color: aliceblue; z-index: 9999;
 ;}
 
-#BottomBorder img { height: 50px; width: auto;}
+#BottomBorder img { height: 50px; width: auto; z-index: 9999;}
 
 
 .Logo /* Link to homepage or splash video still undecided */
