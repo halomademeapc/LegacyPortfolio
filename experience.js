@@ -8,14 +8,14 @@ $('#alltoggle').click(function() {
 
 $('#worktoggle').click(function() {
 	$('.course').slideUp();
-	$('.work').slideDown();
 	$('.volunteer').slideUp();
+	$('.work').slideDown();
 });
 
 $('#schooltoggle').click(function() {
-	$('.course').slideDown();
 	$('.work').slideUp();
 	$('.volunteer').slideUp();
+	$('.course').slideDown();
 });
 
 $('#othertoggle').click(function() {
