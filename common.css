@@ -124,7 +124,15 @@ timewrapper
 	text-align: right;
 }
 
-albumlink
+albumlink {
+	background-image: url(images/Google_Photos_icon.svg);
+}
+
+vidlink {
+	background-image: url(images/YouTube-icon.svg);
+}
+
+albumlink, vidlink
 {
 	
 	font-size: small;
@@ -135,13 +143,12 @@ albumlink
 	text-align: right;
 	padding-right: 2em;
 	background-size: 1.5em;
-	background-image: url(images/Google_Photos_icon.svg);
 	background-repeat: no-repeat;
-	background-position: right;
+	background-position: 98%;
 	border-radius: .5em;
 }
 
-albumlink a
+albumlink a, vidlink a
 {
 	text-decoration: none;
 	color: inherit;
