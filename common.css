@@ -446,7 +446,7 @@ social iframe
 }
 
 #mobilenav {
-	color: #FFF;
+	color: #BBB;
 }
 
 #mobilemenu {
@@ -528,6 +528,10 @@ social iframe
 		padding: 0;
 	}
 	
+	.blade {
+		font-size: 10vw;
+		height: 15vw;		
+	}
 }
 
 @media only screen and (max-width: 700px) {
@@ -537,11 +541,6 @@ social iframe
 		width: 96%;
 		padding-left: 2%;
 		padding-right: 2%;
-	}
-
-	.blade {
-		font-size: 10vw;
-		height: 15vw;		
 	}
 
 	.descphoto img {
