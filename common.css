@@ -293,7 +293,6 @@ div.borderXwidth a:hover:before, div.borderXwidth a:hover:after
 	margin-top: .3em;
 	display: block;
 	width: 95%;
-	vertical-align: middle;
 	height: 10vw;
 	font-family: 'Geniso', 'Open Sans', sans-serif;
 	font-size: 6vw;
@@ -306,6 +305,13 @@ div.borderXwidth a:hover:before, div.borderXwidth a:hover:after
 	margin-right: auto;
 	text-decoration: none;
 	text-transform: uppercase;
+	transition: all 0.2s ease-in-out;
+	letter-spacing: inherit;
+}
+
+.blade:hover {
+	letter-spacing: .1em;
+	width: 100%;
 }
 
 a {
@@ -497,5 +503,10 @@ social iframe
 		width: 96%;
 		padding-left: 2%;
 		padding-right: 2%;
+	}
+
+	.blade {
+		font-size: 10vw;
+		height: 15vw;		
 	}
 }
