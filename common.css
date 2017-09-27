@@ -459,6 +459,7 @@ social iframe
 	color: white;
 	font-size: x-large;	
 	transition: background-color .2s ease-in-out;
+	letter-spacing: .07em;
 }
 
 #mobilemenu navbutton:hover {
