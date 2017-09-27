@@ -430,6 +430,7 @@ social iframe
 	font-size: xx-large;
 	height: 100%;
 	position: absolute;
+	margin-top: -.08em;
 }
 
 #mobilenav, #mobilemenu {
