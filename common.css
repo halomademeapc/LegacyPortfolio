@@ -84,9 +84,14 @@ timewrapper
 	margin-left: -1.4em;
 	width: 3.6em;
 	margin-right: 2em;
-	
+	margin-top: 0.6em;
 }
 
+.timemark::after {
+    content: "";
+	clear: both;
+	display: table;
+}
 .timebox
 {
 	font-family: 'Open Sans', sans-serif;
@@ -474,6 +479,10 @@ social iframe
 	color: white;
 }
 
+.clear {
+	clear: both;
+}
+
 @media only screen and (max-width: 1087px) {
 	.navbarback a {
 		padding-left: .5em;
@@ -538,7 +547,8 @@ social iframe
 	.timebox {
 		margin-left: 1em;
 		padding-left: 2em;
-		padding-bottom: 1.4em;
+		padding-bottom: 0.7em;
+		padding-top: 1.3em;
 	}
 
 	.timemark {
