@@ -12,7 +12,7 @@
 
 <script>
     $('#burger').click(function () {
-        console.log("menu button pressed");
         $('#mobilemenu').slideToggle();
+        $('html,body').animate({ scrollTop: 0 }, 'medium');$('body').scrollTop(0);
     });
 </script>
