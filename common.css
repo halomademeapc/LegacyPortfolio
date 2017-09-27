@@ -424,6 +424,7 @@ social iframe
 	padding-left: .6em;
 	font-size: xx-large;
 	height: 100%;
+	position: absolute;
 }
 
 #mobilenav, #mobilemenu {
