@@ -439,13 +439,6 @@ social iframe
 	text-transform: uppercase;
 }
 
-@media only screen and (max-width: 1087px) {
-	.navbarback a {
-		padding-left: .5em;
-		padding-right: .5em;
-	}
-}
-
 #mobilenav {
 	color: #FFF;
 }
@@ -481,6 +474,31 @@ social iframe
 	color: white;
 }
 
+@media only screen and (max-width: 1087px) {
+	.navbarback a {
+		padding-left: .5em;
+		padding-right: .5em;
+	}
+}
+
+
+@media only screen and (max-width: 1113px) {
+	/*experience page photos*/
+	.descphoto img {
+		display: block;
+		width: 50%;
+		margin-top: .8em;
+		margin-bottom: .8em;
+	}
+	
+	albumlink, vidlink {
+		display: block;
+		margin: 0.8em;
+		right: 0%;
+		position: relative;
+	}
+}
+
 @media only screen and (max-width: 939px) {
 
 	.navbarback a {
@@ -509,5 +527,24 @@ social iframe
 	.blade {
 		font-size: 10vw;
 		height: 15vw;		
+	}
+
+	.descphoto img {
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.timebox {
+		margin-left: 1em;
+		padding-left: 2em;
+		padding-bottom: 1.4em;
+	}
+
+	.timemark {
+		background-position: left;
+		margin-left: 0.07em;
+		padding-left: 2em;
+		text-align: left;
 	}
 }
