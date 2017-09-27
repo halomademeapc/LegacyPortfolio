@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="keywords" content="sonic,paradox,gaming,lets play,youtube,paradoxpowerplays,plays,power">
+	<meta name="author" content="Alex Griffith">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Alex Griffith | Graphic Design</title>
+	<link rel="stylesheet" href="common.css">
+	<script src="https://use.fontawesome.com/a5bb67b3ba.js"></script>
+	<link href="images/a-master-favicon.ico?422724322" rel="shortcut icon">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+</head>
+
+<body>
+
+	<div id="topnavbar"></div>
+	<div id="mobilemenu"></div>
+	<timewrapper>
+		<div id="pagetitle">
+			Graphics
+		</div>
+		<div class="creationhead">
+			<span class="togglebutton"></span> Graphic Design at <i>The Exponent</i>
+		</div>
+		<div class="artgallery">
+			<div class="artgraphic">
+				<img src="images/creations/exponent/spotifyfull.svg">
+			</div>
+			<div class="artgraphic">
+				<img src="images/creations/exponent/weather.svg">
+			</div>
+			<div class="story">
+				<p>By Alex Griffith | Graphics Editor</p>
+				<p>Friday, October 9, 2015 10:00 am</p>
+				<p>It seems to be a widely-accepted idea that school computers tend to be sluggish. However, despite their notoriety for
+					seeming so slow that one might feel a Dorito would offer better performance than whatever chips are inside the system,
+					many students and faculty rely on them daily to perform their studies.</p>
+				<p>A popular location for computer usage and one that receives a particularly high volume of complaints regarding login
+					times and application startup speeds is Hicks Undergraduate Library. I paid a visit to the labs there to run some tests
+					and see what might be responsible for the subpar user experience.</p>
+				<p>The PC’s running Windows in the main area of Hicks are fairly new systems and actually have pretty decent specifications.
+					They’re packing fourth-generation Intel Core-i5 processors, ample amounts of memory and fairly typical hard drives.
+					The computers performed exactly as one would expect based on their specifications. Distinctly typical, but not bad at
+					all.</p>
+				<br>
+				<p>Note: If you aren’t familiar with bits and bytes, they’re size measurements for data on computers. A byte is eight bits,
+					and speeds are expressed in bps (bits per second) and Bps (bytes per second).</p>
+				<p>One of the biggest differences between logging on to a personal computer and logging on to an ITaP computer is that personal
+					computers store all user content locally – all of your stuff is right there on the computer for it to pull in during
+					startup. ITaP stores all of your files and settings on a remote server that their computers have to pull in over the
+					network connection to log you in. I was surprised to find that despite having gigabit Ethernet ports built-in, these
+					computers were using much older and slower 100 megabit-per-second connections. This meant that access to remote storage
+					was capped out at a maximum of a measly one-sixtieth of the 6 Gbps available to internal hard drives over their SATA
+					connections.</p>
+				<br>
+				<p>Mechanical hard drives come nowhere near saturating the 6 Gbps available over SATA, so to assess the performance of these
+					two storage locations, I ran a few passes of CrystalDiskMark, which reads and writes 1GB to test drives both sequentially
+					(as a single file for faster performance), and randomly (broken down into small pieces and spread around the drive to
+					illustrate more realistic performance) while measuring transfer speeds.</p>
+				<br>
+				<p>The results were interesting. The network drive capped out at around the 10-12 MBps mark on each test, indicating that
+					the remote drive itself has very solid performance but is being bottlenecked by the 100 Mbps connection to the computer.
+					The hard drive, on the other hand, had typical sequential read speeds, fairly poor sequential write speeds and abysmal
+					random speeds. It’s perfectly normal for random speeds to be much slower than sequential ones because the head inside
+					the hard drive has to physically move back and forth a lot during that kind of operation, but the performance of the
+					hard drive in this instance was exceptionally bad. Both read and write for random operations were under 1 MBps. For
+					comparison, a DVD being read at 1X speed reads at 1.4 MBps. It’s really that slow. Given that the majority of startup
+					operations are random reads, it’s no wonder the login process takes so long.</p>
+				<p>Speaking of startup times, I experimented a bit to see how changing the amount of user data on my ITaP profile would
+					impact startup. I artificially inflated my profile from its original 686 MB to 5 GB and then back down as small as I
+					could get it to 49 MB and measured the impact on startup time.</p>
+				<br>
+				<p>Reducing the profile size did shorten login times somewhat, but even after deleting practically everything, the login
+					process still took a total of 2 minutes and 30 seconds. The network speed plays into startup speed, but most of the
+					responsibility for booting lies in local storage.</p>
+				<p>I spoke to Byron Reed, director of learning spaces for ITaP, to find out what their stance on the issue was. He explained
+					that there had been an issue with the computer manufacturer putting inconsistent hard drive models in workstations that
+					were supposed to be identical. More interestingly, he revealed that ITaP has plans to upgrade many computers in the
+					area.</p>
+				<p>“We have a timeline. We’ve identified about six hundred machines that would benefit greatly from doing this and are starting
+					some of those machines Monday. We’ll probably get a couple hundred done Monday and Tuesday… but the other four hundred
+					will continue throughout the semester,” said Reed. The planned changes include upgrading older computers with only 4
+					GB of memory to 8 GB and adding SanDisk 250 GB solid-state drives to workstations throughout campus.</p>
+				<p>Solid-state drives greatly outperform traditional hard drives in terms of speed but cost more and generally have much
+					lower capacities. A select few computers in Hicks have already been upgraded as part of a testing process, so I was
+					able to see the improvements firsthand.</p>
+				<br>
+				<p>Needless to say, the hardware upgrades resulted in significantly shorter startup times. With these changes rolling out
+					on a wide scale in the very near future, Boilermakers can expect to spend more time getting work done and less time
+					watching circles spin.</p>
+			</div>
+		</div>
+	</timewrapper>
+	<script src="common.js"></script>
+	<script src="creations.js"></script>
+</body>
+
+</html>

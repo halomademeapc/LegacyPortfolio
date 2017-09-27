@@ -511,6 +511,33 @@ social iframe
 	height: 100%;
 }
 
+.creationhead {
+	width: calc(100% - 2em);
+	background: linear-gradient(to bottom, rgba(40,178,255,0) 60%,rgba(40,178,255,0.1) 100%);
+	color: #444;
+	padding: 1em;
+	font-size: 2em;
+	text-transform: uppercase;
+	font-weight: lighter;
+	border-bottom: solid #444 thick;
+}
+
+.artgraphic {
+	text-align: center;
+	margin: 3em;
+	max-width: 60em;
+	max-height: 60em;
+}
+
+.artgraphic img {
+	max-width: 100%;
+	width: auto;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 @media only screen and (max-width: 1087px) {
 	.navbarback a {
 		padding-left: .5em;
