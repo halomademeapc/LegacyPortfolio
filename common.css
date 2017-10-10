@@ -556,6 +556,17 @@ social iframe
 	margin-right: auto;
 }
 
+.vidloop iframe {
+	width: 100%;
+	height: calc(40vw * 9 / 16);
+}
+
+.vidloop {
+	width: 40vw;
+	max-width: 100%;
+	margin: .2em;
+}
+
 .titleImage {
 	display: block;
 	width: 100%;
@@ -643,6 +654,14 @@ social iframe
 	.artgraphic {
 		min-width: 51%;
 	}
+
+	.vidloop iframe {
+		height: calc(88vw * 9 / 16);
+	}
+	
+	.vidloop {
+		width: 88vw;
+	}
 }
 
 @media only screen and (max-width: 700px) {
@@ -662,6 +681,14 @@ social iframe
 
 	.descphoto img {
 		width: 100%;
+	}
+
+	.vidloop iframe {
+		height: calc(96vw * 9 / 16);
+	}
+	
+	.vidloop {
+		width: 96vw;
 	}
 }
 
