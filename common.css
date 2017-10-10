@@ -66,6 +66,7 @@ timewrapper
 	padding-bottom: 2em;
 	height: 100%;
 	text-align: left;
+	overflow: hidden;
 	/*min-height: calc(90% - 1.4em);*/
 }
 
@@ -176,6 +177,25 @@ albumlink a, vidlink a
 	margin-bottom: 2em;
 	margin-left: -1em;
 	padding-right: 1em;
+}
+
+.story {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 95%;
+}
+
+.story .artgraphic, .story .titleImage img {
+	max-width: 100%;
+}
+
+.story .author {
+	font-size: small;
+}
+
+.story .date {
+	font-size: smaller;
+	color: #444;
 }
 
 .option
